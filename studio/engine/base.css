@@ -1,0 +1,52 @@
+@font-face { font-family: 'Serif'; font-weight: 400; src: url('../node_modules/@fontsource/gelasio/files/gelasio-latin-400-normal.woff2'); }
+@font-face { font-family: 'Serif'; font-weight: 400; font-style: italic; src: url('../node_modules/@fontsource/gelasio/files/gelasio-latin-400-italic.woff2'); }
+@font-face { font-family: 'Serif'; font-weight: 600; src: url('../node_modules/@fontsource/gelasio/files/gelasio-latin-600-normal.woff2'); }
+@font-face { font-family: 'Serif'; font-weight: 700; src: url('../node_modules/@fontsource/gelasio/files/gelasio-latin-700-normal.woff2'); }
+@font-face { font-family: 'Serif'; font-weight: 600; font-style: italic; src: url('../node_modules/@fontsource/gelasio/files/gelasio-latin-600-italic.woff2'); }
+@font-face { font-family: 'Sans'; font-weight: 400; src: url('../node_modules/@fontsource/inter/files/inter-latin-400-normal.woff2'); }
+@font-face { font-family: 'Sans'; font-weight: 500; src: url('../node_modules/@fontsource/inter/files/inter-latin-500-normal.woff2'); }
+@font-face { font-family: 'Sans'; font-weight: 600; src: url('../node_modules/@fontsource/inter/files/inter-latin-600-normal.woff2'); }
+@font-face { font-family: 'Sans'; font-weight: 700; src: url('../node_modules/@fontsource/inter/files/inter-latin-700-normal.woff2'); }
+@font-face { font-family: 'Sans'; font-weight: 800; src: url('../node_modules/@fontsource/inter/files/inter-latin-800-normal.woff2'); }
+
+:root {
+  --teal: #2D4A4A;
+  --teal-deep: #1F3535;
+  --teal-lift: #375858;
+  --peach: #F4C4A0;
+  --peach-soft: rgba(244,196,160,0.16);
+  --cream: #FBF3EC;
+  --muted: #D5E0E0;
+  --serif: 'Serif', Georgia, serif;
+  --sans: 'Sans', -apple-system, sans-serif;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { width: var(--W); height: var(--H); overflow: hidden; background: var(--teal); }
+body { font-family: var(--sans); color: #fff; -webkit-font-smoothing: antialiased; }
+
+/* Stage: everything is drawn at full output size. */
+#stage { position: relative; width: var(--W); height: var(--H); overflow: hidden;
+  background: radial-gradient(120% 80% at 50% 30%, var(--teal-lift) 0%, var(--teal) 55%, var(--teal-deep) 100%); }
+/* Light film grain so flat colour doesn't band on phones. */
+#grain { position: absolute; inset: -50%; width: 200%; height: 200%; pointer-events: none; opacity: 0.07; mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='300'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>"); }
+
+.layer { position: absolute; inset: 0; }
+.abs { position: absolute; }
+.center { display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+.serif { font-family: var(--serif); }
+.peach { color: var(--peach); }
+.muted { color: var(--muted); }
+.kicker { font-family: var(--sans); font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase; color: var(--peach); }
+.pill { display: inline-flex; align-items: center; gap: 14px; padding: 14px 28px; border-radius: 999px; background: var(--peach-soft); border: 2px solid rgba(244,196,160,0.45); color: var(--peach); font-weight: 600; }
+
+/* Brand bug, top left inside the safe area */
+.bug { position: absolute; left: 80px; top: 150px; display: flex; align-items: center; gap: 16px; font-family: var(--serif); font-weight: 600; font-size: 38px; color: var(--peach); }
+.bug .mark { width: 60px; height: 60px; border-radius: 18px; background: var(--peach); display: flex; align-items: center; justify-content: center; }
+.bug .mark svg { width: 34px; height: 34px; color: var(--teal); }
+
+/* Phone frame for real app screens */
+.phone { position: absolute; border-radius: 64px; background: #0d1414; padding: 16px; box-shadow: 0 50px 120px rgba(0,0,0,0.45), 0 0 0 2px rgba(255,255,255,0.08) inset; }
+.phone .screen { width: 100%; height: 100%; border-radius: 50px; overflow: hidden; position: relative; background: var(--teal); }
+.phone .screen img { position: absolute; left: 0; top: 0; width: 100%; display: block; }
+.tap { position: absolute; width: 90px; height: 90px; margin: -45px 0 0 -45px; border-radius: 50%; background: rgba(244,196,160,0.35); border: 4px solid rgba(244,196,160,0.9); }

@@ -1,0 +1,63 @@
+/* Rooted poster kit: fonts, palette, textures, shared pieces. */
+@font-face { font-family: 'Display'; src: url('../node_modules/@fontsource/anton/files/anton-latin-400-normal.woff2'); }
+@font-face { font-family: 'Block'; src: url('../node_modules/@fontsource/archivo-black/files/archivo-black-latin-400-normal.woff2'); }
+@font-face { font-family: 'Bebas'; src: url('../node_modules/@fontsource/bebas-neue/files/bebas-neue-latin-400-normal.woff2'); }
+@font-face { font-family: 'Edit'; font-weight: 400; src: url('../node_modules/@fontsource/playfair-display/files/playfair-display-latin-400-normal.woff2'); }
+@font-face { font-family: 'Edit'; font-weight: 400; font-style: italic; src: url('../node_modules/@fontsource/playfair-display/files/playfair-display-latin-400-italic.woff2'); }
+@font-face { font-family: 'Edit'; font-weight: 600; src: url('../node_modules/@fontsource/playfair-display/files/playfair-display-latin-600-normal.woff2'); }
+@font-face { font-family: 'Edit'; font-weight: 600; font-style: italic; src: url('../node_modules/@fontsource/playfair-display/files/playfair-display-latin-600-italic.woff2'); }
+@font-face { font-family: 'Edit'; font-weight: 800; src: url('../node_modules/@fontsource/playfair-display/files/playfair-display-latin-800-normal.woff2'); }
+@font-face { font-family: 'Script'; src: url('../node_modules/@fontsource/kaushan-script/files/kaushan-script-latin-400-normal.woff2'); }
+@font-face { font-family: 'Hand'; font-weight: 500; src: url('../node_modules/@fontsource/caveat/files/caveat-latin-500-normal.woff2'); }
+@font-face { font-family: 'Hand'; font-weight: 700; src: url('../node_modules/@fontsource/caveat/files/caveat-latin-700-normal.woff2'); }
+@font-face { font-family: 'Marker'; src: url('../node_modules/@fontsource/permanent-marker/files/permanent-marker-latin-400-normal.woff2'); }
+@font-face { font-family: 'Sans'; font-weight: 400; src: url('../node_modules/@fontsource/montserrat/files/montserrat-latin-400-normal.woff2'); }
+@font-face { font-family: 'Sans'; font-weight: 500; src: url('../node_modules/@fontsource/montserrat/files/montserrat-latin-500-normal.woff2'); }
+@font-face { font-family: 'Sans'; font-weight: 600; src: url('../node_modules/@fontsource/montserrat/files/montserrat-latin-600-normal.woff2'); }
+@font-face { font-family: 'Sans'; font-weight: 700; src: url('../node_modules/@fontsource/montserrat/files/montserrat-latin-700-normal.woff2'); }
+@font-face { font-family: 'Sans'; font-weight: 800; src: url('../node_modules/@fontsource/montserrat/files/montserrat-latin-800-normal.woff2'); }
+@font-face { font-family: 'Serif'; font-weight: 600; src: url('../node_modules/@fontsource/gelasio/files/gelasio-latin-600-normal.woff2'); }
+
+:root {
+  --teal: #2D4A4A; --teal-deep: #1C3030; --teal-ink: #132222; --teal-lift: #3C6060;
+  --peach: #F4C4A0; --apricot: #E8A47A; --rust: #B9603A;
+  --cream: #F2E9DB; --paper: #E9DDC8; --kraft: #D6C2A2;
+  --gold: #C8A15A; --ink: #1A1F1F;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { width: var(--W); height: var(--H); overflow: hidden; }
+body { font-family: 'Sans', sans-serif; -webkit-font-smoothing: antialiased; }
+#stage { position: relative; width: var(--W); height: var(--H); overflow: hidden; }
+.abs { position: absolute; }
+.display { font-family: 'Display', sans-serif; text-transform: uppercase; line-height: 0.88; letter-spacing: 0.005em; }
+.block { font-family: 'Block', sans-serif; text-transform: uppercase; line-height: 0.92; letter-spacing: -0.01em; }
+.edit { font-family: 'Edit', Georgia, serif; }
+.script { font-family: 'Script', cursive; }
+.hand { font-family: 'Hand', cursive; }
+.marker { font-family: 'Marker', cursive; }
+.caps { text-transform: uppercase; letter-spacing: 0.28em; font-weight: 700; }
+.grain::after { content: ''; position: absolute; inset: 0; pointer-events: none; z-index: 50; opacity: var(--grain, 0.22); mix-blend-mode: overlay;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='300'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0.5  0 0 0 0 0.5  0 0 0 0 0.5  0 0 0 1.6 -0.3'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>"); }
+.paper { background-color: var(--cream);
+  background-image: radial-gradient(120% 90% at 30% 20%, rgba(255,255,255,0.55), transparent 60%),
+    url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><filter id='p'><feTurbulence type='fractalNoise' baseFrequency='0.035' numOctaves='4' seed='4'/><feColorMatrix values='0 0 0 0 0.45  0 0 0 0 0.38  0 0 0 0 0.28  0 0 0 0.16 0'/></filter><rect width='100%' height='100%' filter='url(%23p)'/></svg>"); }
+.fit { white-space: nowrap; display: inline-block; }
+/* top lockup: logo | label */
+.lockup { display: flex; align-items: center; gap: 22px; }
+.lockup .tile { width: 64px; height: 64px; border-radius: 18px; display: flex; align-items: center; justify-content: center; }
+.lockup .tile svg { width: 38px; height: 38px; }
+.lockup .name { font-family: 'Serif', serif; font-weight: 600; font-size: 40px; letter-spacing: -0.01em; }
+.lockup .bar { width: 2px; height: 46px; opacity: 0.5; }
+.lockup .label { font-size: 17px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; line-height: 1.25; }
+/* info strip like event fliers */
+.strip { display: flex; align-items: stretch; border-radius: 22px; overflow: hidden; }
+.strip > div { flex: 1; padding: 22px 26px; display: flex; flex-direction: column; justify-content: center; }
+.strip > div + div { border-left: 2px solid currentColor; border-left-color: rgba(255,255,255,0.22); }
+.strip .k { font-size: 18px; font-style: italic; font-family: 'Edit', serif; opacity: 0.85; }
+.strip .v { font-family: 'Display', sans-serif; font-size: 44px; text-transform: uppercase; line-height: 1; margin-top: 6px; }
+.footer { display: flex; align-items: center; justify-content: center; gap: 16px; font-weight: 600; font-size: 24px; }
+.footer .icons { display: flex; gap: 10px; }
+.footer .icons svg { width: 30px; height: 30px; }
+.pill { display: inline-flex; align-items: center; gap: 14px; border-radius: 999px; padding: 14px 30px; }
+.tape { position: absolute; height: 54px; background: rgba(240, 228, 205, 0.78); box-shadow: 0 2px 6px rgba(0,0,0,0.12);
+  clip-path: polygon(0 8%, 3% 0, 6% 10%, 10% 2%, 94% 0, 97% 9%, 100% 2%, 100% 92%, 97% 100%, 93% 90%, 89% 100%, 6% 100%, 3% 91%, 0 100%); }

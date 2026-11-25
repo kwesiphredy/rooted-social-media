@@ -1,0 +1,49 @@
+// Simple drawn Rooted screens for phone mockups (sample content, American names).
+const card = (inner, extra = '') => `<div style="background:rgba(255,255,255,0.07);border:1px solid rgba(244,196,160,0.18);border-radius:22px;padding:18px 18px;${extra}">${inner}</div>`;
+const t = (s, sz = 15, w = 500, c = 'rgba(255,255,255,0.85)', extra = '') => `<div style="font-size:${sz}px;font-weight:${w};color:${c};line-height:1.35;${extra}">${s}</div>`;
+const title = (s, sub) => `<div style="padding:52px 22px 10px">${t(s, 30, 800, '#fff', "font-family:'Sans';letter-spacing:-0.01em")}${sub ? t(sub, 14, 500, 'rgba(255,255,255,0.6)', 'margin-top:4px') : ''}</div>`;
+const pill = (s, on) => `<span style="display:inline-block;padding:8px 14px;border-radius:999px;font-size:13px;font-weight:700;${on ? 'background:var(--peach);color:var(--teal)' : 'background:rgba(255,255,255,0.08);color:rgba(255,255,255,0.75)'}">${s}</span>`;
+const btn = (s) => `<div style="margin-top:14px;background:var(--peach);color:var(--teal);border-radius:16px;padding:14px;text-align:center;font-weight:800;font-size:16px">${s}</div>`;
+const nav = `<div style="position:absolute;left:14px;right:14px;bottom:16px;height:62px;border-radius:24px;background:rgba(255,255,255,0.94);display:flex;justify-content:space-around;align-items:center">${[0, 1, 2, 3, 4].map((i) => `<div style="width:26px;height:26px;border-radius:8px;border:2.5px solid ${i === 2 ? 'var(--peach)' : '#8FA3A3'}"></div>`).join('')}</div>`;
+const wrap = (s) => `<div style="position:absolute;inset:0;font-family:'Sans'">${s}${nav}</div>`;
+const gap = (h = 12) => `<div style="height:${h}px"></div>`;
+
+const S = {
+  SpiritScript: () => wrap(title('SpiritScript', 'Sermon notes that keep') + `<div style="padding:0 18px">
+    ${card(`<div style="display:flex;align-items:center;gap:14px"><div style="width:54px;height:54px;border-radius:50%;background:#E0675A;box-shadow:0 0 0 8px rgba(224,103,90,0.25)"></div><div>${t('Recording', 17, 800, '#fff')}${t('Sunday service · 32:14', 13, 500, 'rgba(255,255,255,0.6)')}</div></div>`)}
+    ${gap()}${card(`${t('SUMMARY', 12, 800, 'var(--peach)', 'letter-spacing:0.14em')}${t('The message walked through how God meets us in the waiting, and why faith grows in ordinary days.', 14)}`)}
+    ${gap()}${card(`${t('SCRIPTURE', 12, 800, 'var(--peach)', 'letter-spacing:0.14em')}<div style="display:flex;flex-wrap:wrap;gap:8px;margin-top:8px">${pill('Isaiah 40:31', 1)}${pill('Psalm 27:14')}${pill('Romans 8:25')}${pill('Lamentations 3:25')}</div>`)}
+    ${gap()}${card(`${t('TRANSCRIPT', 12, 800, 'var(--peach)', 'letter-spacing:0.14em')}${t('"Turn with me to Isaiah chapter forty. They that wait upon the Lord..."', 14, 500, 'rgba(255,255,255,0.75)')}`)}</div>`),
+  BibleWell: (p) => wrap(title('BibleWell', 'Your holistic Bible reading') + `<div style="padding:0 18px">
+    <div style="display:flex;gap:8px">${pill('Read')}${pill('Plans')}${pill('Audio', 1)}</div>${gap(16)}
+    ${card(`${t('Mark 12', 22, 800, '#fff', 'text-align:center')}${t('Voice only', 13, 500, 'rgba(255,255,255,0.6)', 'text-align:center')}<div style="height:6px;border-radius:9px;background:rgba(255,255,255,0.2);margin:18px 0 8px"><div style="width:38%;height:6px;border-radius:9px;background:var(--peach)"></div></div><div style="display:flex;justify-content:space-between">${t('1m 48s', 12, 600, 'rgba(255,255,255,0.6)')}${t('4m 43s', 12, 600, 'rgba(255,255,255,0.6)')}</div><div style="margin:14px auto 0;width:64px;height:64px;border-radius:50%;background:var(--peach)"></div>`)}
+    ${gap()}${card(`${t('IN PLAIN WORDS', 12, 800, 'var(--peach)', 'letter-spacing:0.14em')}${t('Jesus says the greatest commandment is to love God with everything you are, and to love your neighbor as yourself.', 14)}`)}</div>`),
+  DevoDesk: () => wrap(title('DevoDesk', 'Good morning, Jessica') + `<div style="padding:0 18px">
+    ${card(`${t("TODAY'S DEVOTION", 12, 800, 'var(--peach)', 'letter-spacing:0.14em')}${t('Strength for the Season You’re In', 19, 800, '#fff', 'margin-top:6px')}${t('Isaiah 40:31 · 6 min', 13, 500, 'rgba(255,255,255,0.6)')}${btn('Start')}`)}
+    ${gap()}${card(`<div style="display:flex;justify-content:space-between">${['O', 'I', 'A'].map((x, i) => `<div style="text-align:center;flex:1">${t(x, 22, 800, i === 0 ? 'var(--peach)' : '#fff')}${t(['Observe', 'Interpret', 'Apply'][i], 11, 600, 'rgba(255,255,255,0.6)')}</div>`).join('')}</div>`)}
+    ${gap()}${card(`${t('THIS WEEK', 12, 800, 'var(--peach)', 'letter-spacing:0.14em')}<div style="display:flex;gap:6px;margin-top:10px">${'MTWTFSS'.split('').map((d, i) => `<div style="flex:1;text-align:center;padding:8px 0;border-radius:10px;background:${i < 3 ? 'var(--peach)' : 'rgba(255,255,255,0.08)'};color:${i < 3 ? 'var(--teal)' : '#fff'};font-weight:800;font-size:12px">${d}</div>`).join('')}</div>`)}</div>`),
+  SoulNotes: () => wrap(title('SoulNotes', 'Private to you') + `<div style="padding:0 18px">
+    ${card(`${t('Today', 12, 800, 'var(--peach)', 'letter-spacing:0.14em')}${t('What I heard in prayer this morning', 18, 800, '#fff', 'margin-top:6px')}${t('Slow down. Trust Me with the parts you can’t control...', 14, 500, 'rgba(255,255,255,0.7)', "font-family:'Edit';font-style:italic;margin-top:6px")}`)}
+    ${gap()}${card(`${t('Prayer', 12, 800, 'var(--peach)', 'letter-spacing:0.14em')}${t('For patience with the kids this week', 16, 700, '#fff', 'margin-top:6px')}`)}
+    ${gap()}${card(`${t('Answered', 12, 800, '#9BD3B5', 'letter-spacing:0.14em')}${t('The new job came through', 16, 700, '#fff', 'margin-top:6px')}`)}
+    ${gap()}<div style="margin-left:auto;width:58px;height:58px;border-radius:50%;background:var(--peach);color:var(--teal);font-size:34px;font-weight:800;display:flex;align-items:center;justify-content:center">+</div></div>`),
+  'Upper Room': () => wrap(title('Upper Room', 'Your prayer requests') + `<div style="padding:0 18px">
+    ${['Wisdom for my decision at work', 'Healing for Grandma', 'My brother Tyler', 'Peace before finals'].map((x, i) => card(`<div style="display:flex;justify-content:space-between;align-items:center">${t(x, 15, 700, '#fff')}${i === 1 ? pill('Answered', 1) : pill('Praying')}</div>`, 'margin-bottom:12px')).join('')}
+    ${btn('Add a prayer request')}</div>`),
+  'Prayer Wall': () => wrap(title('Prayer Wall', 'Pray for one another') + `<div style="padding:0 18px">
+    ${[['Ashley T.', 'Job interview on Thursday. Praying for peace and favor.', 14], ['Megan R.', 'For my dad’s surgery next week.', 22], ['Tyler B.', 'Starting a new semester. Pray I stay consistent.', 9]].map(([n, x, c]) => card(`${t(n, 13, 800, 'var(--peach)')}${t(x, 14, 500, '#fff', 'margin-top:4px')}<div style="margin-top:10px">${pill(`🙏 I prayed · ${c}`)}</div>`, 'margin-bottom:12px')).join('')}</div>`),
+  'Daily Verse Drop': () => wrap(title('Good morning, Ryan', 'Let’s grow in faith together today') + `<div style="padding:0 18px">
+    ${card(`${t('DAILY VERSE', 12, 800, 'var(--peach)', 'letter-spacing:0.14em')}${t('“Fear thou not; for I am with thee: be not dismayed; for I am thy God.”', 18, 500, '#fff', "font-family:'Edit';font-style:italic;margin-top:10px;line-height:1.45")}${t('Isaiah 41:10', 13, 700, 'rgba(255,255,255,0.6)', 'margin-top:10px')}`, 'padding:24px')}
+    ${gap()}${card(`<div style="display:flex;gap:10px">${pill('Save', 1)}${pill('Share')}${pill('Read chapter')}</div>`)}</div>`),
+  'The Gathering Place': () => wrap(title('The Gathering Place', 'Chat, verses and groups') + `<div style="padding:0 18px">
+    ${[['Young Adults Group', 'Jessica: Who’s in for Thursday study?'], ['Ryan M.', 'Shared a verse: Psalm 46:1'], ['Sunday Sermon Notes', 'Tyler: Here’s my summary from today']].map(([n, x]) => card(`<div style="display:flex;gap:12px;align-items:center"><div style="width:44px;height:44px;border-radius:50%;background:var(--peach);flex:none"></div><div>${t(n, 15, 800, '#fff')}${t(x, 13, 500, 'rgba(255,255,255,0.65)')}</div></div>`, 'margin-bottom:12px')).join('')}</div>`),
+  'Bible Playzone': () => wrap(title('Bible Playzone', 'Learn the Bible through play') + `<div style="padding:0 18px">
+    ${card(`${t('PLAY TOGETHER', 12, 800, 'var(--peach)', 'letter-spacing:0.14em')}${t('Play with friends', 19, 800, '#fff', 'margin-top:6px')}${btn('Start a room')}`)}
+    ${gap()}<div style="display:grid;grid-template-columns:1fr 1fr;gap:12px">${['Bible Trivia', 'HolyHunt', 'Parable Remix', 'RhemaRush'].map((g) => card(t(g, 15, 800, '#fff', 'text-align:center;padding:14px 0'))).join('')}</div></div>`),
+  'Open Play': () => wrap(title('Bible Playzone', 'Play with anyone') + `<div style="padding:0 18px">
+    ${card(`${t('OPEN GAME', 12, 800, 'var(--peach)', 'letter-spacing:0.14em')}${t('Bible Trivia', 22, 800, '#fff', 'margin-top:6px')}${t('Waiting for players · 1:42 left', 13, 500, 'rgba(255,255,255,0.6)')}<div style="display:flex;margin-top:14px">${[0, 1, 2].map((i) => `<div style="width:40px;height:40px;border-radius:50%;background:${['var(--peach)', '#9BD3B5', '#E8A47A'][i]};border:3px solid var(--teal);margin-left:${i ? -10 : 0}px"></div>`).join('')}</div>${btn('Join the game')}`)}
+    ${gap()}${card(`${t('Everyone in Rooted gets the invite.', 14, 600, '#fff')}`)}</div>`),
+  'Find People': () => wrap(title('Find People', 'Believers near you') + `<div style="padding:0 18px">
+    ${[['Jessica M.', 'Same church'], ['Ryan C.', '3 mutual friends'], ['Ashley T.', 'Same church'], ['Tyler B.', '1 mutual friend']].map(([n, x]) => card(`<div style="display:flex;gap:12px;align-items:center;justify-content:space-between"><div style="display:flex;gap:12px;align-items:center"><div style="width:42px;height:42px;border-radius:50%;background:var(--peach)"></div><div>${t(n, 15, 800, '#fff')}${t(x, 12, 500, 'rgba(255,255,255,0.6)')}</div></div>${pill('Add', 1)}</div>`, 'margin-bottom:10px')).join('')}</div>`),
+};
+export const screenFor = (feature, p) => (S[feature] || S.SpiritScript)(p);

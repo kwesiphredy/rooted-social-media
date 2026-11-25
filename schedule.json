@@ -1,6 +1,92 @@
 {
- "note": "Rooted social posts ready to schedule (TikTok and Instagram @stay.rootedapp). Times are America/Chicago. Posting days: Sun, Tue, Wed, Thu, Sat (holiday posts keep their real date).",
+ "note": "Rooted daily posts Dec 1, 2026 to May 31, 2027. Times are America/Chicago. Buffer is the source of truth for what is queued.",
  "posts": [
+  {
+   "original_date": "2026-12-01",
+   "pillar": "Understand the Word",
+   "hook": "What is Advent? Explained simply.",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-01/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-01/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-01/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-01/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-01/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-01/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-01/slide-07.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-01/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-01/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-01/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-01/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-01/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-01/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-01/slide-07.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-12-01T07:00:00-06:00",
+   "caption": "Save this so you can come back to it. Do you celebrate Advent at your church or at home?\n\nDownload Rooted: link in bio.\n\n#biblestudy #bibleverse #scripture #christian #rootedapp",
+   "alt_text": "What is Advent? Explained simply.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2026-12-02",
+   "pillar": "Pray & Write",
+   "hook": "Pray for someone who's hard to love this week.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-02/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-02/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-12-02T07:00:00-06:00",
+   "caption": "Add it to Upper Room in Rooted, and mark it answered when God moves. Who or what are you praying for today?\n\nDownload Rooted: link in bio.\n\n#prayer #prayerjournal #christianwomen #faith #rootedapp",
+   "alt_text": "Pray for someone who's hard to love this week.",
+   "queued_in_buffer": false
+  },
   {
    "original_date": "2026-12-03",
    "pillar": "Trivia Thursday",
@@ -25,6 +111,142 @@
    "caption": "Trivia Thursday! How many did you get? Be honest. Then challenge a friend in the Bible Playzone in Rooted.\n\nDownload Rooted: link in bio.\n\n#bibletrivia #biblegames #christianfun #triviathursday #rootedapp",
    "alt_text": "3 Bible questions. Most people miss at least one.",
    "queued_in_buffer": true
+  },
+  {
+   "original_date": "2026-12-04",
+   "pillar": "Faith with Friends",
+   "hook": "Morning devotion or night devotion?",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-04/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-04/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-12-04T07:00:00-06:00",
+   "caption": "Which one are you? Comment below.\n\nDownload Rooted: link in bio.\n\n#christiancommunity #smallgroup #faithfriends #church #rootedapp",
+   "alt_text": "Morning devotion or night devotion?",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2026-12-05",
+   "pillar": "Weekend Verse",
+   "hook": "Out of a small town came the King.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-05/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-05/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-12-05T07:00:00-06:00",
+   "caption": "Micah 5:2 (KJV) Who needs this verse today? Send it to them.\n\nSave and share.\n\n#bibleverse #dailyverse #christian #faith #rootedapp",
+   "alt_text": "Out of a small town came the King.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2026-12-06",
+   "pillar": "Keep the Sermon",
+   "hook": "Second Sunday of Advent. Prepare the way.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-06/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-06/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-12-06T14:00:00-06:00",
+   "caption": "Open SpiritScript, tap record, and get the transcript, a summary and every verse your pastor mentioned. What is your church preaching through right now?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Second Sunday of Advent. Prepare the way.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2026-12-07",
+   "pillar": "Keep the Sermon",
+   "hook": "5 things to do with Sunday's sermon before Wednesday",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-07/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-07/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-07/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-07/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-07/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-07/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-07/slide-07.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-07/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-07/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-07/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-07/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-07/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-07/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-07/slide-07.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-12-07T07:00:00-06:00",
+   "caption": "Save this so you can come back to it. Which one do you need to start this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "5 things to do with Sunday's sermon before Wednesday",
+   "queued_in_buffer": false
   },
   {
    "original_date": "2026-12-08",
@@ -138,6 +360,192 @@
    "queued_in_buffer": true
   },
   {
+   "original_date": "2026-12-11",
+   "pillar": "Faith with Friends",
+   "hook": "My favorite Christmas carol is ____.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-11/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-11/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-12-11T07:00:00-06:00",
+   "caption": "Fill in the blank in the comments.\n\nDownload Rooted: link in bio.\n\n#christiancommunity #smallgroup #faithfriends #church #rootedapp",
+   "alt_text": "My favorite Christmas carol is ____.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2026-12-12",
+   "pillar": "Feature Spotlight",
+   "hook": "Your pastor preached for 40 minutes. Keep all of it.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-12/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-12/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-12-12T07:00:00-06:00",
+   "caption": "Your pastor preached for 40 minutes. Keep all of it. Record the sermon. Get a transcript and summary. See every scripture reference. Which feature would you use most?\n\nDownload Rooted: link in bio.\n\n#christianapp #biblestudy #christian #faith #rootedapp",
+   "alt_text": "Your pastor preached for 40 minutes. Keep all of it.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2026-12-13",
+   "pillar": "Keep the Sermon",
+   "hook": "Third Sunday of Advent. Good tidings of great joy.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-13/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-13/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-12-13T14:00:00-06:00",
+   "caption": "Open SpiritScript, tap record, and get the transcript, a summary and every verse your pastor mentioned. What is your church preaching through right now?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Third Sunday of Advent. Good tidings of great joy.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2026-12-14",
+   "pillar": "Keep the Sermon",
+   "hook": "What did Sunday's sermon ask you to do this week?",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-14/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-14/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-12-14T07:00:00-06:00",
+   "caption": "SpiritScript keeps the transcript, summary and every verse from Sunday, so Monday has something to stand on. What's one thing from Sunday you're putting into practice this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "What did Sunday's sermon ask you to do this week?",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2026-12-15",
+   "pillar": "Understand the Word",
+   "hook": "The 5 names of Jesus in Isaiah 9:6",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-15/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-15/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-15/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-15/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-15/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-15/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-15/slide-07.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-15/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-15/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-15/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-15/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-15/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-15/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-15/slide-07.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-12-15T07:00:00-06:00",
+   "caption": "Save this so you can come back to it. Which name of Jesus means the most to you this year?\n\nDownload Rooted: link in bio.\n\n#biblestudy #bibleverse #scripture #christian #rootedapp",
+   "alt_text": "The 5 names of Jesus in Isaiah 9:6",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2026-12-16",
+   "pillar": "Pray & Write",
+   "hook": "Christmas can be heavy. Pray for someone grieving this season.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-16/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-16/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-12-16T07:00:00-06:00",
+   "caption": "Post a request on the Prayer Wall in Rooted, or pray for someone else's. Who or what are you praying for today?\n\nDownload Rooted: link in bio.\n\n#prayer #prayerjournal #christianwomen #faith #rootedapp",
+   "alt_text": "Christmas can be heavy. Pray for someone grieving this season.",
+   "queued_in_buffer": false
+  },
+  {
    "original_date": "2026-12-17",
    "pillar": "Trivia Thursday",
    "hook": "Christmas trivia round 2. Harder this time.",
@@ -163,6 +571,253 @@
    "queued_in_buffer": true
   },
   {
+   "original_date": "2026-12-18",
+   "pillar": "Faith with Friends",
+   "hook": "Tag the friend who always wins Bible trivia.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-18/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-18/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-12-18T07:00:00-06:00",
+   "caption": "Tag them below.\n\nDownload Rooted: link in bio.\n\n#christiancommunity #smallgroup #faithfriends #church #rootedapp",
+   "alt_text": "Tag the friend who always wins Bible trivia.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2026-12-19",
+   "pillar": "Weekend Verse",
+   "hook": "The Word became flesh.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-19/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-19/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-12-19T07:00:00-06:00",
+   "caption": "John 1:14 (KJV) Who needs this verse today? Send it to them.\n\nSave and share.\n\n#bibleverse #dailyverse #christian #faith #rootedapp",
+   "alt_text": "The Word became flesh.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2026-12-20",
+   "pillar": "Keep the Sermon",
+   "hook": "Fourth Sunday of Advent. God with us.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-20/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-20/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-12-20T14:00:00-06:00",
+   "caption": "Open SpiritScript, tap record, and get the transcript, a summary and every verse your pastor mentioned. What is your church preaching through right now?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Fourth Sunday of Advent. God with us.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2026-12-21",
+   "pillar": "Keep the Sermon",
+   "hook": "Christmas sermons fade by New Year. Keep this one.",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-21/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-21/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-21/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-21/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-21/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-21/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-21/slide-07.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-21/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-21/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-21/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-21/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-21/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-21/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-21/slide-07.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-12-21T07:00:00-06:00",
+   "caption": "Save this so you can come back to it. Which one do you need to start this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Christmas sermons fade by New Year. Keep this one.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2026-12-22",
+   "pillar": "Understand the Word",
+   "hook": "The wise men: what the Bible actually says",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-22/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-22/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-22/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-22/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-22/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-22/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-22/slide-07.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-22/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-22/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-22/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-22/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-22/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-22/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-22/slide-07.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-12-22T07:00:00-06:00",
+   "caption": "Save this so you can come back to it. Which of these surprised you?\n\nDownload Rooted: link in bio.\n\n#biblestudy #bibleverse #scripture #christian #rootedapp",
+   "alt_text": "The wise men: what the Bible actually says",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2026-12-23",
+   "pillar": "Pray & Write",
+   "hook": "Before the rush, take 2 minutes of quiet.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-23/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-23/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-12-23T07:00:00-06:00",
+   "caption": "Write it in SoulNotes, your private journal in Rooted. Who or what are you praying for today?\n\nDownload Rooted: link in bio.\n\n#prayer #prayerjournal #christianwomen #faith #rootedapp",
+   "alt_text": "Before the rush, take 2 minutes of quiet.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2026-12-24",
+   "pillar": "Seasonal",
+   "hook": "Christmas Eve.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-24/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-24/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-12-24T19:00:00-06:00",
+   "caption": "Luke 2:11 (KJV) What is your family's Christmas Eve tradition?\n\nSave and share.\n\n#bibleverse #christian #faith #holidays #rootedapp",
+   "alt_text": "Christmas Eve.",
+   "queued_in_buffer": false
+  },
+  {
    "original_date": "2026-12-25",
    "pillar": "Seasonal",
    "hook": "Merry Christmas.",
@@ -186,6 +841,81 @@
    "caption": "Merry Christmas from all of us at Rooted. The reason for the season has a name.\n\nSave and share.\n\n#bibleverse #christian #faith #holidays #rootedapp",
    "alt_text": "Merry Christmas.",
    "queued_in_buffer": true
+  },
+  {
+   "original_date": "2026-12-26",
+   "pillar": "Feature Spotlight",
+   "hook": "Listen to the whole Bible on your commute.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-26/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-26/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-12-26T07:00:00-06:00",
+   "caption": "Listen to the whole Bible on your commute. Voice only, for the whole Bible. Dramatized New Testament with music. Picks up right where you left off. Which feature would you use most?\n\nDownload Rooted: link in bio.\n\n#christianapp #biblestudy #christian #faith #rootedapp",
+   "alt_text": "Listen to the whole Bible on your commute.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2026-12-27",
+   "pillar": "Keep the Sermon",
+   "hook": "The shepherds went back changed. So can we.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-27/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-27/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-12-27T14:00:00-06:00",
+   "caption": "Open SpiritScript, tap record, and get the transcript, a summary and every verse your pastor mentioned. What is your church preaching through right now?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "The shepherds went back changed. So can we.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2026-12-28",
+   "pillar": "Keep the Sermon",
+   "hook": "Name one sermon from this year that changed you.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-28/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-28/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-12-28T07:00:00-06:00",
+   "caption": "SpiritScript keeps the transcript, summary and every verse from Sunday, so Monday has something to stand on. What's one thing from Sunday you're putting into practice this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Name one sermon from this year that changed you.",
+   "queued_in_buffer": false
   },
   {
    "original_date": "2026-12-29",
@@ -249,6 +979,31 @@
    "queued_in_buffer": true
   },
   {
+   "original_date": "2026-12-30",
+   "pillar": "Pray & Write",
+   "hook": "Write down one prayer God answered this year.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-30/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-12-30/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-12-30T07:00:00-06:00",
+   "caption": "Add it to Upper Room in Rooted, and mark it answered when God moves. Who or what are you praying for today?\n\nDownload Rooted: link in bio.\n\n#prayer #prayerjournal #christianwomen #faith #rootedapp",
+   "alt_text": "Write down one prayer God answered this year.",
+   "queued_in_buffer": false
+  },
+  {
    "original_date": "2026-12-31",
    "pillar": "Trivia Thursday",
    "hook": "Last trivia of the year. Can you go 3 for 3?",
@@ -299,6 +1054,117 @@
    "queued_in_buffer": true
   },
   {
+   "original_date": "2027-01-02",
+   "pillar": "Weekend Verse",
+   "hook": "A new thing.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-02/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-02/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-01-02T07:00:00-06:00",
+   "caption": "Isaiah 43:19 (KJV) Who needs this verse today? Send it to them.\n\nSave and share.\n\n#bibleverse #dailyverse #christian #faith #rootedapp",
+   "alt_text": "A new thing.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-01-03",
+   "pillar": "Keep the Sermon",
+   "hook": "Don't let today's sermon fade by Wednesday.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-03/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-03/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-01-03T14:00:00-06:00",
+   "caption": "Open SpiritScript, tap record, and get the transcript, a summary and every verse your pastor mentioned. What is your church preaching through right now?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Don't let today's sermon fade by Wednesday.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-01-04",
+   "pillar": "Keep the Sermon",
+   "hook": "How to take sermon notes you'll actually reread",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-04/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-04/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-04/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-04/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-04/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-04/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-04/slide-07.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-04/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-04/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-04/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-04/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-04/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-04/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-04/slide-07.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-01-04T07:00:00-06:00",
+   "caption": "Save this so you can come back to it. Which one do you need to start this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "How to take sermon notes you'll actually reread",
+   "queued_in_buffer": false
+  },
+  {
    "original_date": "2027-01-05",
    "pillar": "Understand the Word",
    "hook": "The verse this app is named after.",
@@ -324,6 +1190,403 @@
    "queued_in_buffer": true
   },
   {
+   "original_date": "2027-01-06",
+   "pillar": "Pray & Write",
+   "hook": "Ask God for one word for this year.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-06/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-06/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-01-06T07:00:00-06:00",
+   "caption": "Write it in SoulNotes, your private journal in Rooted. Who or what are you praying for today?\n\nDownload Rooted: link in bio.\n\n#prayer #prayerjournal #christianwomen #faith #rootedapp",
+   "alt_text": "Ask God for one word for this year.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-01-07",
+   "pillar": "Trivia Thursday",
+   "hook": "New year, first questions. 3 for 3?",
+   "kind": "video",
+   "instagram": {
+    "type": "reel",
+    "assets": [
+     {
+      "video": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-07/video.mp4"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "video": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-07/video.mp4"
+     }
+    ]
+   },
+   "post_at": "2027-01-07T19:00:00-06:00",
+   "caption": "Trivia Thursday! Answers are in the video. How many did you get? Be honest.\n\nDownload Rooted: link in bio.\n\n#bibletrivia #biblegames #christianfun #triviathursday #rootedapp",
+   "alt_text": "New year, first questions. 3 for 3?",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-01-08",
+   "pillar": "Faith with Friends",
+   "hook": "My one word for my faith this year: ____.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-08/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-08/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-01-08T07:00:00-06:00",
+   "caption": "Fill in the blank in the comments.\n\nDownload Rooted: link in bio.\n\n#christiancommunity #smallgroup #faithfriends #church #rootedapp",
+   "alt_text": "My one word for my faith this year: ____.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-01-09",
+   "pillar": "Feature Spotlight",
+   "hook": "Devotions shaped around your season of life.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-09/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-09/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-01-09T07:00:00-06:00",
+   "caption": "Devotions shaped around your season of life. A devotion for where you are. Plan your week with God. Observation, Interpretation, Application. Which feature would you use most?\n\nDownload Rooted: link in bio.\n\n#christianapp #biblestudy #christian #faith #rootedapp",
+   "alt_text": "Devotions shaped around your season of life.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-01-10",
+   "pillar": "Keep the Sermon",
+   "hook": "One sermon. Every verse. Saved.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-10/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-10/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-01-10T14:00:00-06:00",
+   "caption": "Open SpiritScript, tap record, and get the transcript, a summary and every verse your pastor mentioned. What is your church preaching through right now?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "One sermon. Every verse. Saved.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-01-11",
+   "pillar": "Keep the Sermon",
+   "hook": "Sunday filled you up. Monday is where it counts.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-11/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-11/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-01-11T07:00:00-06:00",
+   "caption": "SpiritScript keeps the transcript, summary and every verse from Sunday, so Monday has something to stand on. What's one thing from Sunday you're putting into practice this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Sunday filled you up. Monday is where it counts.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-01-12",
+   "pillar": "Understand the Word",
+   "hook": "How to read a Psalm",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-12/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-12/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-12/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-12/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-12/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-12/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-12/slide-07.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-12/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-12/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-12/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-12/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-12/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-12/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-12/slide-07.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-01-12T07:00:00-06:00",
+   "caption": "Save this so you can come back to it. What's your favorite psalm?\n\nDownload Rooted: link in bio.\n\n#biblestudy #bibleverse #scripture #christian #rootedapp",
+   "alt_text": "How to read a Psalm",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-01-13",
+   "pillar": "Pray & Write",
+   "hook": "Pray for your pastor today.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-13/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-13/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-01-13T07:00:00-06:00",
+   "caption": "Add it to Upper Room in Rooted, and mark it answered when God moves. Who or what are you praying for today?\n\nDownload Rooted: link in bio.\n\n#prayer #prayerjournal #christianwomen #faith #rootedapp",
+   "alt_text": "Pray for your pastor today.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-01-14",
+   "pillar": "Trivia Thursday",
+   "hook": "Prophets trivia. Who did what?",
+   "kind": "video",
+   "instagram": {
+    "type": "reel",
+    "assets": [
+     {
+      "video": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-14/video.mp4"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "video": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-14/video.mp4"
+     }
+    ]
+   },
+   "post_at": "2027-01-14T19:00:00-06:00",
+   "caption": "Trivia Thursday! Answers are in the video. How many did you get? Be honest.\n\nDownload Rooted: link in bio.\n\n#bibletrivia #biblegames #christianfun #triviathursday #rootedapp",
+   "alt_text": "Prophets trivia. Who did what?",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-01-15",
+   "pillar": "Faith with Friends",
+   "hook": "Read the Bible or listen to it?",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-15/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-15/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-01-15T07:00:00-06:00",
+   "caption": "Which one are you? Comment below.\n\nDownload Rooted: link in bio.\n\n#christiancommunity #smallgroup #faithfriends #church #rootedapp",
+   "alt_text": "Read the Bible or listen to it?",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-01-16",
+   "pillar": "Weekend Verse",
+   "hook": "Tired? Come to Him.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-16/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-16/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-01-16T07:00:00-06:00",
+   "caption": "Matthew 11:28 (KJV) Who needs this verse today? Send it to them.\n\nSave and share.\n\n#bibleverse #dailyverse #christian #faith #rootedapp",
+   "alt_text": "Tired? Come to Him.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-01-17",
+   "pillar": "Keep the Sermon",
+   "hook": "Before church today: hit record.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-17/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-17/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-01-17T14:00:00-06:00",
+   "caption": "Open SpiritScript, tap record, and get the transcript, a summary and every verse your pastor mentioned. What is your church preaching through right now?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Before church today: hit record.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-01-18",
+   "pillar": "Keep the Sermon",
+   "hook": "5 questions to ask after every sermon",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-18/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-18/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-18/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-18/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-18/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-18/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-18/slide-07.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-18/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-18/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-18/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-18/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-18/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-18/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-18/slide-07.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-01-18T07:00:00-06:00",
+   "caption": "Save this so you can come back to it. Which one do you need to start this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "5 questions to ask after every sermon",
+   "queued_in_buffer": false
+  },
+  {
    "original_date": "2027-01-19",
    "pillar": "Understand the Word",
    "hook": "'Be still and know' doesn't mean what you think.",
@@ -346,6 +1609,31 @@
    "post_at": "2027-01-19T07:00:00-06:00",
    "caption": "Context changes everything. Psalm 46 is about trusting God in chaos. Read the whole chapter in BibleWell.\n\nDownload Rooted: link in bio.\n\n#biblestudy #bibleverse #scripture #christian #rootedapp",
    "alt_text": "'Be still and know' doesn't mean what you think.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-01-20",
+   "pillar": "Pray & Write",
+   "hook": "The midweek dip is real. Keep going.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-20/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-20/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-01-20T07:00:00-06:00",
+   "caption": "Five minutes in DevoDesk is enough to reset the week. Who or what are you praying for today?\n\nDownload Rooted: link in bio.\n\n#prayer #prayerjournal #christianwomen #faith #rootedapp",
+   "alt_text": "The midweek dip is real. Keep going.",
    "queued_in_buffer": false
   },
   {
@@ -374,6 +1662,192 @@
    "queued_in_buffer": false
   },
   {
+   "original_date": "2027-01-22",
+   "pillar": "Faith with Friends",
+   "hook": "Thy word is a lamp unto my feet, and a ____.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-22/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-22/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-01-22T07:00:00-06:00",
+   "caption": "Finish it in the comments without looking it up.\n\nDownload Rooted: link in bio.\n\n#christiancommunity #smallgroup #faithfriends #church #rootedapp\n\n.\n.\n.\nAnswer: \"Thy word is a lamp unto my feet, and a light unto my path.\" Psalm 119:105 (KJV)",
+   "alt_text": "Thy word is a lamp unto my feet, and a ____.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-01-23",
+   "pillar": "Feature Spotlight",
+   "hook": "A private place to write what God is showing you.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-23/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-23/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-01-23T07:00:00-06:00",
+   "caption": "A private place to write what God is showing you. Reflections. Prayers. Answered prayers. Which feature would you use most?\n\nDownload Rooted: link in bio.\n\n#christianapp #biblestudy #christian #faith #rootedapp",
+   "alt_text": "A private place to write what God is showing you.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-01-24",
+   "pillar": "Keep the Sermon",
+   "hook": "Today's sermon deserves more than a Sunday.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-24/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-24/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-01-24T14:00:00-06:00",
+   "caption": "Open SpiritScript, tap record, and get the transcript, a summary and every verse your pastor mentioned. What is your church preaching through right now?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Today's sermon deserves more than a Sunday.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-01-25",
+   "pillar": "Keep the Sermon",
+   "hook": "Hearing is good. Doing is better.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-25/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-25/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-01-25T07:00:00-06:00",
+   "caption": "SpiritScript keeps the transcript, summary and every verse from Sunday, so Monday has something to stand on. What's one thing from Sunday you're putting into practice this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Hearing is good. Doing is better.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-01-26",
+   "pillar": "Understand the Word",
+   "hook": "The Lord's Prayer, line by line",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-26/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-26/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-26/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-26/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-26/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-26/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-26/slide-07.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-26/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-26/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-26/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-26/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-26/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-26/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-26/slide-07.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-01-26T07:00:00-06:00",
+   "caption": "Save this so you can come back to it. Which line do you find hardest to pray?\n\nDownload Rooted: link in bio.\n\n#biblestudy #bibleverse #scripture #christian #rootedapp",
+   "alt_text": "The Lord's Prayer, line by line",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-01-27",
+   "pillar": "Pray & Write",
+   "hook": "Pray for the friend who stopped coming to church.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-27/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-27/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-01-27T07:00:00-06:00",
+   "caption": "Add it to Upper Room in Rooted, and mark it answered when God moves. Who or what are you praying for today?\n\nDownload Rooted: link in bio.\n\n#prayer #prayerjournal #christianwomen #faith #rootedapp",
+   "alt_text": "Pray for the friend who stopped coming to church.",
+   "queued_in_buffer": false
+  },
+  {
    "original_date": "2027-01-28",
    "pillar": "Trivia Thursday",
    "hook": "Can you guess the parable from the remix?",
@@ -396,6 +1870,56 @@
    "post_at": "2027-01-28T19:00:00-06:00",
    "caption": "Parable Remix tests how well you know Jesus' stories. Pause, guess, comment your answer.\n\nDownload Rooted: link in bio.\n\n#bibletrivia #biblegames #christianfun #triviathursday #rootedapp",
    "alt_text": "Can you guess the parable from the remix?",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-01-29",
+   "pillar": "Faith with Friends",
+   "hook": "Start a Bible game. Anyone in Rooted can join.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-29/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-29/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-01-29T07:00:00-06:00",
+   "caption": "Start a Bible game. Anyone in Rooted can join. Find it in Open Play in Rooted. Have you tried it yet?\n\nDownload Rooted: link in bio.\n\n#christiancommunity #smallgroup #faithfriends #church #rootedapp",
+   "alt_text": "Start a Bible game. Anyone in Rooted can join.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-01-30",
+   "pillar": "Weekend Verse",
+   "hook": "Look up.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-30/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-01-30/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-01-30T07:00:00-06:00",
+   "caption": "Psalm 121:1-2 (KJV) Who needs this verse today? Send it to them.\n\nSave and share.\n\n#bibleverse #dailyverse #christian #faith #rootedapp",
+   "alt_text": "Look up.",
    "queued_in_buffer": false
   },
   {
@@ -466,6 +1990,73 @@
    "queued_in_buffer": false
   },
   {
+   "original_date": "2027-02-01",
+   "pillar": "Keep the Sermon",
+   "hook": "Turn one sermon into 5 days of devotion",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-01/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-01/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-01/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-01/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-01/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-01/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-01/slide-07.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-01/slide-08.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-01/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-01/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-01/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-01/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-01/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-01/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-01/slide-07.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-01/slide-08.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-02-01T07:00:00-06:00",
+   "caption": "Save this so you can come back to it. Which one do you need to start this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Turn one sermon into 5 days of devotion",
+   "queued_in_buffer": false
+  },
+  {
    "original_date": "2027-02-02",
    "pillar": "Understand the Word",
    "hook": "5 verses for when you're anxious.",
@@ -527,6 +2118,31 @@
    "queued_in_buffer": false
   },
   {
+   "original_date": "2027-02-03",
+   "pillar": "Pray & Write",
+   "hook": "Worried? Turn it into a prayer list.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-03/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-03/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-02-03T07:00:00-06:00",
+   "caption": "Add it to Upper Room in Rooted, and mark it answered when God moves. Who or what are you praying for today?\n\nDownload Rooted: link in bio.\n\n#prayer #prayerjournal #christianwomen #faith #rootedapp",
+   "alt_text": "Worried? Turn it into a prayer list.",
+   "queued_in_buffer": false
+  },
+  {
    "original_date": "2027-02-04",
    "pillar": "Trivia Thursday",
    "hook": "New Testament trivia. Let's go.",
@@ -549,6 +2165,106 @@
    "post_at": "2027-02-04T19:00:00-06:00",
    "caption": "Comment your score and play the full round in Rooted.\n\nDownload Rooted: link in bio.\n\n#bibletrivia #biblegames #christianfun #triviathursday #rootedapp",
    "alt_text": "New Testament trivia. Let's go.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-02-05",
+   "pillar": "Faith with Friends",
+   "hook": "The Bible character I relate to most is ____.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-05/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-05/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-02-05T07:00:00-06:00",
+   "caption": "Fill in the blank in the comments.\n\nDownload Rooted: link in bio.\n\n#christiancommunity #smallgroup #faithfriends #church #rootedapp",
+   "alt_text": "The Bible character I relate to most is ____.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-02-06",
+   "pillar": "Feature Spotlight",
+   "hook": "Bible games you can play with friends.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-06/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-06/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-02-06T07:00:00-06:00",
+   "caption": "Bible games you can play with friends. Bible Trivia, HolyHunt, Parable Remix, RhemaRush. Live game rooms. Leaderboards. Which feature would you use most?\n\nDownload Rooted: link in bio.\n\n#christianapp #biblestudy #christian #faith #rootedapp",
+   "alt_text": "Bible games you can play with friends.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-02-07",
+   "pillar": "Keep the Sermon",
+   "hook": "Record it today. Reread it Monday.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-07/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-07/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-02-07T14:00:00-06:00",
+   "caption": "Open SpiritScript, tap record, and get the transcript, a summary and every verse your pastor mentioned. What is your church preaching through right now?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Record it today. Reread it Monday.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-02-08",
+   "pillar": "Keep the Sermon",
+   "hook": "Faith grows by hearing. Keep listening.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-08/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-08/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-02-08T07:00:00-06:00",
+   "caption": "SpiritScript keeps the transcript, summary and every verse from Sunday, so Monday has something to stand on. What's one thing from Sunday you're putting into practice this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Faith grows by hearing. Keep listening.",
    "queued_in_buffer": false
   },
   {
@@ -624,6 +2340,203 @@
    "post_at": "2027-02-11T19:00:00-06:00",
    "caption": "February trivia. Challenge your spouse, friend or small group in Rooted.\n\nDownload Rooted: link in bio.\n\n#bibletrivia #biblegames #christianfun #triviathursday #rootedapp",
    "alt_text": "Love-themed Bible trivia for February.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-02-12",
+   "pillar": "Faith with Friends",
+   "hook": "Tag someone who prays for you.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-12/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-12/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-02-12T07:00:00-06:00",
+   "caption": "Tag them below.\n\nDownload Rooted: link in bio.\n\n#christiancommunity #smallgroup #faithfriends #church #rootedapp",
+   "alt_text": "Tag someone who prays for you.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-02-13",
+   "pillar": "Weekend Verse",
+   "hook": "Love that came first.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-13/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-13/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-02-13T07:00:00-06:00",
+   "caption": "Romans 5:8 (KJV) Who needs this verse today? Send it to them.\n\nSave and share.\n\n#bibleverse #dailyverse #christian #faith #rootedapp",
+   "alt_text": "Love that came first.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-02-14",
+   "pillar": "Seasonal",
+   "hook": "Happy Valentine's Day. He loved you first.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-14/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-14/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-02-14T14:00:00-06:00",
+   "caption": "1 John 4:19 (KJV) Who taught you what God's love looks like?\n\nSave and share.\n\n#bibleverse #christian #faith #holidays #rootedapp",
+   "alt_text": "Happy Valentine's Day. He loved you first.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-02-15",
+   "pillar": "Keep the Sermon",
+   "hook": "How to listen well this Lent",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-15/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-15/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-15/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-15/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-15/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-15/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-15/slide-07.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-15/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-15/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-15/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-15/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-15/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-15/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-15/slide-07.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-02-15T07:00:00-06:00",
+   "caption": "Save this so you can come back to it. Which one do you need to start this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "How to listen well this Lent",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-02-16",
+   "pillar": "Understand the Word",
+   "hook": "Fasting in the Bible: 5 things to know",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-16/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-16/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-16/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-16/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-16/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-16/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-16/slide-07.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-16/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-16/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-16/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-16/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-16/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-16/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-16/slide-07.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-02-16T07:00:00-06:00",
+   "caption": "Save this so you can come back to it. Are you fasting from anything this Lent?\n\nDownload Rooted: link in bio.\n\n#biblestudy #bibleverse #scripture #christian #rootedapp",
+   "alt_text": "Fasting in the Bible: 5 things to know",
    "queued_in_buffer": false
   },
   {
@@ -719,6 +2632,106 @@
    "queued_in_buffer": false
   },
   {
+   "original_date": "2027-02-19",
+   "pillar": "Faith with Friends",
+   "hook": "Sermon notes: pen and paper or phone?",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-19/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-19/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-02-19T07:00:00-06:00",
+   "caption": "Which one are you? Comment below.\n\nDownload Rooted: link in bio.\n\n#christiancommunity #smallgroup #faithfriends #church #rootedapp",
+   "alt_text": "Sermon notes: pen and paper or phone?",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-02-20",
+   "pillar": "Feature Spotlight",
+   "hook": "Keep a record of what you prayed for.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-20/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-20/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-02-20T07:00:00-06:00",
+   "caption": "Keep a record of what you prayed for. Add your prayer requests. Mark them answered. Look back at God's faithfulness. Which feature would you use most?\n\nDownload Rooted: link in bio.\n\n#christianapp #biblestudy #christian #faith #rootedapp",
+   "alt_text": "Keep a record of what you prayed for.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-02-21",
+   "pillar": "Keep the Sermon",
+   "hook": "Don't let today's sermon fade by Wednesday.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-21/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-21/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-02-21T14:00:00-06:00",
+   "caption": "Open SpiritScript, tap record, and get the transcript, a summary and every verse your pastor mentioned. What is your church preaching through right now?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Don't let today's sermon fade by Wednesday.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-02-22",
+   "pillar": "Keep the Sermon",
+   "hook": "Be quick to listen this week.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-22/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-22/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-02-22T07:00:00-06:00",
+   "caption": "SpiritScript keeps the transcript, summary and every verse from Sunday, so Monday has something to stand on. What's one thing from Sunday you're putting into practice this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Be quick to listen this week.",
+   "queued_in_buffer": false
+  },
+  {
    "original_date": "2027-02-23",
    "pillar": "Understand the Word",
    "hook": "Jeremiah 29:11 wasn't written to you first. Here's why it still matters.",
@@ -741,6 +2754,31 @@
    "post_at": "2027-02-23T07:00:00-06:00",
    "caption": "'For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil.' Jeremiah 29:11 (KJV). The promise came with a wait. Still true.\n\nDownload Rooted: link in bio.\n\n#biblestudy #bibleverse #scripture #christian #rootedapp",
    "alt_text": "Jeremiah 29:11 wasn't written to you first. Here's why it still matters.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-02-24",
+   "pillar": "Pray & Write",
+   "hook": "Lent: what are you making room for?",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-24/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-24/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-02-24T07:00:00-06:00",
+   "caption": "Write it in SoulNotes, your private journal in Rooted. Who or what are you praying for today?\n\nDownload Rooted: link in bio.\n\n#prayer #prayerjournal #christianwomen #faith #rootedapp",
+   "alt_text": "Lent: what are you making room for?",
    "queued_in_buffer": false
   },
   {
@@ -769,6 +2807,142 @@
    "queued_in_buffer": false
   },
   {
+   "original_date": "2027-02-26",
+   "pillar": "Faith with Friends",
+   "hook": "The verse that got me through a hard season: ____.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-26/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-26/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-02-26T07:00:00-06:00",
+   "caption": "Fill in the blank in the comments.\n\nDownload Rooted: link in bio.\n\n#christiancommunity #smallgroup #faithfriends #church #rootedapp",
+   "alt_text": "The verse that got me through a hard season: ____.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-02-27",
+   "pillar": "Weekend Verse",
+   "hook": "Fear not.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-27/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-27/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-02-27T07:00:00-06:00",
+   "caption": "Isaiah 41:10 (KJV) Who needs this verse today? Send it to them.\n\nSave and share.\n\n#bibleverse #dailyverse #christian #faith #rootedapp",
+   "alt_text": "Fear not.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-02-28",
+   "pillar": "Keep the Sermon",
+   "hook": "One sermon. Every verse. Saved.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-28/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-02-28/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-02-28T14:00:00-06:00",
+   "caption": "Open SpiritScript, tap record, and get the transcript, a summary and every verse your pastor mentioned. What is your church preaching through right now?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "One sermon. Every verse. Saved.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-03-01",
+   "pillar": "Keep the Sermon",
+   "hook": "Small group leaders: use Sunday's sermon for Wednesday's group",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-01/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-01/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-01/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-01/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-01/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-01/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-01/slide-07.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-01/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-01/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-01/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-01/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-01/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-01/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-01/slide-07.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-03-01T07:00:00-06:00",
+   "caption": "Save this so you can come back to it. Which one do you need to start this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Small group leaders: use Sunday's sermon for Wednesday's group",
+   "queued_in_buffer": false
+  },
+  {
    "original_date": "2027-03-02",
    "pillar": "Understand the Word",
    "hook": "Philippians 4:13 isn't about winning the game.",
@@ -791,6 +2965,31 @@
    "post_at": "2027-03-02T07:00:00-06:00",
    "caption": "'I have learned, in whatsoever state I am, therewith to be content.' Philippians 4:11 (KJV). Read verse 13 with verse 11 and it changes.\n\nDownload Rooted: link in bio.\n\n#biblestudy #bibleverse #scripture #christian #rootedapp",
    "alt_text": "Philippians 4:13 isn't about winning the game.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-03-03",
+   "pillar": "Pray & Write",
+   "hook": "Pray for your city today.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-03/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-03/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-03-03T07:00:00-06:00",
+   "caption": "Post a request on the Prayer Wall in Rooted, or pray for someone else's. Who or what are you praying for today?\n\nDownload Rooted: link in bio.\n\n#prayer #prayerjournal #christianwomen #faith #rootedapp",
+   "alt_text": "Pray for your city today.",
    "queued_in_buffer": false
   },
   {
@@ -819,6 +3018,106 @@
    "queued_in_buffer": false
   },
   {
+   "original_date": "2027-03-05",
+   "pillar": "Faith with Friends",
+   "hook": "I can do all things through Christ which ____ me.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-05/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-05/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-03-05T07:00:00-06:00",
+   "caption": "Finish it in the comments without looking it up.\n\nDownload Rooted: link in bio.\n\n#christiancommunity #smallgroup #faithfriends #church #rootedapp\n\n.\n.\n.\nAnswer: \"I can do all things through Christ which strengtheneth me.\" Philippians 4:13 (KJV)",
+   "alt_text": "I can do all things through Christ which ____ me.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-03-06",
+   "pillar": "Feature Spotlight",
+   "hook": "You don't have to pray alone.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-06/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-06/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-03-06T07:00:00-06:00",
+   "caption": "You don't have to pray alone. Share a request. Pray for others. Celebrate answered prayers. Which feature would you use most?\n\nDownload Rooted: link in bio.\n\n#christianapp #biblestudy #christian #faith #rootedapp",
+   "alt_text": "You don't have to pray alone.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-03-07",
+   "pillar": "Keep the Sermon",
+   "hook": "Before church today: hit record.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-07/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-07/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-03-07T14:00:00-06:00",
+   "caption": "Open SpiritScript, tap record, and get the transcript, a summary and every verse your pastor mentioned. What is your church preaching through right now?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Before church today: hit record.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-03-08",
+   "pillar": "Keep the Sermon",
+   "hook": "Your pastor spent hours on that message. Keep it.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-08/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-08/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-03-08T07:00:00-06:00",
+   "caption": "SpiritScript keeps the transcript, summary and every verse from Sunday, so Monday has something to stand on. What's one thing from Sunday you're putting into practice this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Your pastor spent hours on that message. Keep it.",
+   "queued_in_buffer": false
+  },
+  {
    "original_date": "2027-03-09",
    "pillar": "Understand the Word",
    "hook": "Romans 8:28 doesn't say everything is good.",
@@ -841,6 +3140,192 @@
    "post_at": "2027-03-09T07:00:00-06:00",
    "caption": "'All things work together for good to them that love God.' Romans 8:28 (KJV). Not everything is good. God is good in everything.\n\nDownload Rooted: link in bio.\n\n#biblestudy #bibleverse #scripture #christian #rootedapp",
    "alt_text": "Romans 8:28 doesn't say everything is good.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-03-10",
+   "pillar": "Pray & Write",
+   "hook": "Pray Psalm 23 slowly, one line at a time.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-10/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-10/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-03-10T07:00:00-06:00",
+   "caption": "Write it in SoulNotes, your private journal in Rooted. Who or what are you praying for today?\n\nDownload Rooted: link in bio.\n\n#prayer #prayerjournal #christianwomen #faith #rootedapp",
+   "alt_text": "Pray Psalm 23 slowly, one line at a time.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-03-11",
+   "pillar": "Trivia Thursday",
+   "hook": "Animals of the Bible. Easy? Let's see.",
+   "kind": "video",
+   "instagram": {
+    "type": "reel",
+    "assets": [
+     {
+      "video": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-11/video.mp4"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "video": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-11/video.mp4"
+     }
+    ]
+   },
+   "post_at": "2027-03-11T19:00:00-06:00",
+   "caption": "Trivia Thursday! Answers are in the video. How many did you get? Be honest.\n\nDownload Rooted: link in bio.\n\n#bibletrivia #biblegames #christianfun #triviathursday #rootedapp",
+   "alt_text": "Animals of the Bible. Easy? Let's see.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-03-12",
+   "pillar": "Faith with Friends",
+   "hook": "HolyHunt: a Bible word search. How fast can you find them?",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-12/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-12/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-03-12T07:00:00-06:00",
+   "caption": "HolyHunt: a Bible word search. How fast can you find them? Find it in Bible Playzone in Rooted. Have you tried it yet?\n\nDownload Rooted: link in bio.\n\n#christiancommunity #smallgroup #faithfriends #church #rootedapp",
+   "alt_text": "HolyHunt: a Bible word search. How fast can you find them?",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-03-13",
+   "pillar": "Weekend Verse",
+   "hook": "New every morning.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-13/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-13/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-03-13T07:00:00-06:00",
+   "caption": "Lamentations 3:22-23 (KJV) Who needs this verse today? Send it to them.\n\nSave and share.\n\n#bibleverse #dailyverse #christian #faith #rootedapp",
+   "alt_text": "New every morning.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-03-14",
+   "pillar": "Keep the Sermon",
+   "hook": "Today's sermon deserves more than a Sunday.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-14/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-14/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-03-14T14:00:00-05:00",
+   "caption": "Open SpiritScript, tap record, and get the transcript, a summary and every verse your pastor mentioned. What is your church preaching through right now?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Today's sermon deserves more than a Sunday.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-03-15",
+   "pillar": "Keep the Sermon",
+   "hook": "When the sermon stepped on your toes",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-15/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-15/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-15/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-15/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-15/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-15/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-15/slide-07.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-15/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-15/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-15/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-15/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-15/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-15/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-15/slide-07.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-03-15T07:00:00-05:00",
+   "caption": "Save this so you can come back to it. Which one do you need to start this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "When the sermon stepped on your toes",
    "queued_in_buffer": false
   },
   {
@@ -869,6 +3354,31 @@
    "queued_in_buffer": false
   },
   {
+   "original_date": "2027-03-17",
+   "pillar": "Pray & Write",
+   "hook": "Pray for your family by name.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-17/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-17/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-03-17T07:00:00-05:00",
+   "caption": "Add it to Upper Room in Rooted, and mark it answered when God moves. Who or what are you praying for today?\n\nDownload Rooted: link in bio.\n\n#prayer #prayerjournal #christianwomen #faith #rootedapp",
+   "alt_text": "Pray for your family by name.",
+   "queued_in_buffer": false
+  },
+  {
    "original_date": "2027-03-18",
    "pillar": "Trivia Thursday",
    "hook": "Palm Sunday trivia.",
@@ -891,6 +3401,106 @@
    "post_at": "2027-03-18T19:00:00-05:00",
    "caption": "Palm Sunday is this weekend. Play a full round in Rooted.\n\nDownload Rooted: link in bio.\n\n#bibletrivia #biblegames #christianfun #triviathursday #rootedapp",
    "alt_text": "Palm Sunday trivia.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-03-19",
+   "pillar": "Faith with Friends",
+   "hook": "Old Testament or New Testament?",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-19/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-19/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-03-19T07:00:00-05:00",
+   "caption": "Which one are you? Comment below.\n\nDownload Rooted: link in bio.\n\n#christiancommunity #smallgroup #faithfriends #church #rootedapp",
+   "alt_text": "Old Testament or New Testament?",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-03-20",
+   "pillar": "Feature Spotlight",
+   "hook": "A verse waiting for you every morning.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-20/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-20/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-03-20T07:00:00-05:00",
+   "caption": "A verse waiting for you every morning. One verse on your Home screen. Read it, save it, share it. Start the day in the Word. Which feature would you use most?\n\nDownload Rooted: link in bio.\n\n#christianapp #biblestudy #christian #faith #rootedapp",
+   "alt_text": "A verse waiting for you every morning.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-03-21",
+   "pillar": "Seasonal",
+   "hook": "Palm Sunday. Hosanna!",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-21/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-21/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-03-21T14:00:00-05:00",
+   "caption": "Matthew 21:9 (KJV) What does Holy Week look like in your house?\n\nSave and share.\n\n#bibleverse #christian #faith #holidays #rootedapp",
+   "alt_text": "Palm Sunday. Hosanna!",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-03-22",
+   "pillar": "Keep the Sermon",
+   "hook": "Holy Week starts now. Walk it day by day.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-22/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-22/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-03-22T07:00:00-05:00",
+   "caption": "SpiritScript keeps the transcript, summary and every verse from Sunday, so Monday has something to stand on. What's one thing from Sunday you're putting into practice this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Holy Week starts now. Walk it day by day.",
    "queued_in_buffer": false
   },
   {
@@ -1036,6 +3646,117 @@
    "queued_in_buffer": false
   },
   {
+   "original_date": "2027-03-27",
+   "pillar": "Weekend Verse",
+   "hook": "Holy Saturday. By His stripes.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-27/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-27/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-03-27T07:00:00-05:00",
+   "caption": "Isaiah 53:5 (KJV) Who needs this verse today? Send it to them.\n\nSave and share.\n\n#bibleverse #dailyverse #christian #faith #rootedapp",
+   "alt_text": "Holy Saturday. By His stripes.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-03-28",
+   "pillar": "Seasonal",
+   "hook": "He is risen. Happy Easter.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-28/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-28/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-03-28T14:00:00-05:00",
+   "caption": "Matthew 28:6 (KJV) What is one word for what Easter means to you?\n\nSave and share.\n\n#bibleverse #christian #faith #holidays #rootedapp",
+   "alt_text": "He is risen. Happy Easter.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-03-29",
+   "pillar": "Keep the Sermon",
+   "hook": "Easter Sunday is over. Now what?",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-29/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-29/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-29/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-29/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-29/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-29/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-29/slide-07.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-29/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-29/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-29/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-29/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-29/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-29/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-29/slide-07.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-03-29T07:00:00-05:00",
+   "caption": "Save this so you can come back to it. Which one do you need to start this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Easter Sunday is over. Now what?",
+   "queued_in_buffer": false
+  },
+  {
    "original_date": "2027-03-30",
    "pillar": "Understand the Word",
    "hook": "Why the empty tomb is everything.",
@@ -1061,6 +3782,31 @@
    "queued_in_buffer": false
   },
   {
+   "original_date": "2027-03-31",
+   "pillar": "Pray & Write",
+   "hook": "Thank Him for one thing the cross changed for you.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-31/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-03-31/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-03-31T07:00:00-05:00",
+   "caption": "Write it in SoulNotes, your private journal in Rooted. Who or what are you praying for today?\n\nDownload Rooted: link in bio.\n\n#prayer #prayerjournal #christianwomen #faith #rootedapp",
+   "alt_text": "Thank Him for one thing the cross changed for you.",
+   "queued_in_buffer": false
+  },
+  {
    "original_date": "2027-04-01",
    "pillar": "Trivia Thursday",
    "hook": "Easter trivia. Did you know number 3?",
@@ -1083,6 +3829,106 @@
    "post_at": "2027-04-01T19:00:00-05:00",
    "caption": "The number 40 again! Comment your score.\n\nDownload Rooted: link in bio.\n\n#bibletrivia #biblegames #christianfun #triviathursday #rootedapp",
    "alt_text": "Easter trivia. Did you know number 3?",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-04-02",
+   "pillar": "Faith with Friends",
+   "hook": "The worship song on repeat since Easter: ____.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-02/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-02/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-04-02T07:00:00-05:00",
+   "caption": "Fill in the blank in the comments.\n\nDownload Rooted: link in bio.\n\n#christiancommunity #smallgroup #faithfriends #church #rootedapp",
+   "alt_text": "The worship song on repeat since Easter: ____.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-04-03",
+   "pillar": "Feature Spotlight",
+   "hook": "Faith is better with friends.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-03/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-03/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-04-03T07:00:00-05:00",
+   "caption": "Faith is better with friends. Chat with other believers. Share verses and notes. Join groups. Which feature would you use most?\n\nDownload Rooted: link in bio.\n\n#christianapp #biblestudy #christian #faith #rootedapp",
+   "alt_text": "Faith is better with friends.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-04-04",
+   "pillar": "Keep the Sermon",
+   "hook": "Blessed are they that have not seen, and yet have believed.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-04/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-04/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-04-04T14:00:00-05:00",
+   "caption": "Open SpiritScript, tap record, and get the transcript, a summary and every verse your pastor mentioned. What is your church preaching through right now?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Blessed are they that have not seen, and yet have believed.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-04-05",
+   "pillar": "Keep the Sermon",
+   "hook": "He is risen. Now live like it.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-05/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-05/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-04-05T07:00:00-05:00",
+   "caption": "SpiritScript keeps the transcript, summary and every verse from Sunday, so Monday has something to stand on. What's one thing from Sunday you're putting into practice this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "He is risen. Now live like it.",
    "queued_in_buffer": false
   },
   {
@@ -1161,6 +4007,142 @@
    "queued_in_buffer": false
   },
   {
+   "original_date": "2027-04-09",
+   "pillar": "Faith with Friends",
+   "hook": "Tag your prayer partner.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-09/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-09/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-04-09T07:00:00-05:00",
+   "caption": "Tag them below.\n\nDownload Rooted: link in bio.\n\n#christiancommunity #smallgroup #faithfriends #church #rootedapp",
+   "alt_text": "Tag your prayer partner.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-04-10",
+   "pillar": "Weekend Verse",
+   "hook": "Hope that overflows.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-10/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-10/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-04-10T07:00:00-05:00",
+   "caption": "Romans 15:13 (KJV) Who needs this verse today? Send it to them.\n\nSave and share.\n\n#bibleverse #dailyverse #christian #faith #rootedapp",
+   "alt_text": "Hope that overflows.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-04-11",
+   "pillar": "Keep the Sermon",
+   "hook": "One sermon. Every verse. Saved.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-11/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-11/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-04-11T14:00:00-05:00",
+   "caption": "Open SpiritScript, tap record, and get the transcript, a summary and every verse your pastor mentioned. What is your church preaching through right now?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "One sermon. Every verse. Saved.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-04-12",
+   "pillar": "Keep the Sermon",
+   "hook": "Missed church? How to catch up on the sermon",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-12/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-12/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-12/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-12/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-12/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-12/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-12/slide-07.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-12/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-12/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-12/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-12/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-12/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-12/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-12/slide-07.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-04-12T07:00:00-05:00",
+   "caption": "Save this so you can come back to it. Which one do you need to start this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Missed church? How to catch up on the sermon",
+   "queued_in_buffer": false
+  },
+  {
    "original_date": "2027-04-13",
    "pillar": "Understand the Word",
    "hook": "Plant this in your heart this week.",
@@ -1183,6 +4165,31 @@
    "post_at": "2027-04-13T07:00:00-05:00",
    "caption": "Rooted people bear fruit in season. Save this for your lock screen.\n\nDownload Rooted: link in bio.\n\n#biblestudy #bibleverse #scripture #christian #rootedapp",
    "alt_text": "Plant this in your heart this week.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-04-14",
+   "pillar": "Pray & Write",
+   "hook": "Pray for the person who hurt you.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-14/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-14/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-04-14T07:00:00-05:00",
+   "caption": "Write it in SoulNotes, your private journal in Rooted. Who or what are you praying for today?\n\nDownload Rooted: link in bio.\n\n#prayer #prayerjournal #christianwomen #faith #rootedapp",
+   "alt_text": "Pray for the person who hurt you.",
    "queued_in_buffer": false
   },
   {
@@ -1211,6 +4218,106 @@
    "queued_in_buffer": false
   },
   {
+   "original_date": "2027-04-16",
+   "pillar": "Faith with Friends",
+   "hook": "Find your people in The Gathering Place.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-16/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-16/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-04-16T07:00:00-05:00",
+   "caption": "Find your people in The Gathering Place. Find it in The Gathering Place in Rooted. Have you tried it yet?\n\nDownload Rooted: link in bio.\n\n#christiancommunity #smallgroup #faithfriends #church #rootedapp",
+   "alt_text": "Find your people in The Gathering Place.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-04-17",
+   "pillar": "Feature Spotlight",
+   "hook": "Start a game. Everyone gets the invite.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-17/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-17/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-04-17T07:00:00-05:00",
+   "caption": "Start a game. Everyone gets the invite. Open a game for anyone to join. Rooted lets everyone know. Play live together. Which feature would you use most?\n\nDownload Rooted: link in bio.\n\n#christianapp #biblestudy #christian #faith #rootedapp",
+   "alt_text": "Start a game. Everyone gets the invite.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-04-18",
+   "pillar": "Keep the Sermon",
+   "hook": "Before church today: hit record.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-18/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-18/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-04-18T14:00:00-05:00",
+   "caption": "Open SpiritScript, tap record, and get the transcript, a summary and every verse your pastor mentioned. What is your church preaching through right now?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Before church today: hit record.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-04-19",
+   "pillar": "Keep the Sermon",
+   "hook": "Mondays are for doing what Sunday said.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-19/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-19/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-04-19T07:00:00-05:00",
+   "caption": "SpiritScript keeps the transcript, summary and every verse from Sunday, so Monday has something to stand on. What's one thing from Sunday you're putting into practice this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Mondays are for doing what Sunday said.",
+   "queued_in_buffer": false
+  },
+  {
    "original_date": "2027-04-20",
    "pillar": "Understand the Word",
    "hook": "Trust Him with the whole thing.",
@@ -1233,6 +4340,278 @@
    "post_at": "2027-04-20T07:00:00-05:00",
    "caption": "Save this for the decision you're facing this week.\n\nDownload Rooted: link in bio.\n\n#biblestudy #bibleverse #scripture #christian #rootedapp",
    "alt_text": "Trust Him with the whole thing.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-04-21",
+   "pillar": "Pray & Write",
+   "hook": "Ask God for wisdom about one decision.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-21/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-21/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-04-21T07:00:00-05:00",
+   "caption": "Add it to Upper Room in Rooted, and mark it answered when God moves. Who or what are you praying for today?\n\nDownload Rooted: link in bio.\n\n#prayer #prayerjournal #christianwomen #faith #rootedapp",
+   "alt_text": "Ask God for wisdom about one decision.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-04-22",
+   "pillar": "Trivia Thursday",
+   "hook": "Paul's journeys. Only real ones get 3/3.",
+   "kind": "video",
+   "instagram": {
+    "type": "reel",
+    "assets": [
+     {
+      "video": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-22/video.mp4"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "video": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-22/video.mp4"
+     }
+    ]
+   },
+   "post_at": "2027-04-22T19:00:00-05:00",
+   "caption": "Trivia Thursday! Answers are in the video. How many did you get? Be honest.\n\nDownload Rooted: link in bio.\n\n#bibletrivia #biblegames #christianfun #triviathursday #rootedapp",
+   "alt_text": "Paul's journeys. Only real ones get 3/3.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-04-23",
+   "pillar": "Faith with Friends",
+   "hook": "Be strong and of a good courage... for the LORD thy God is ____.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-23/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-23/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-04-23T07:00:00-05:00",
+   "caption": "Finish it in the comments without looking it up.\n\nDownload Rooted: link in bio.\n\n#christiancommunity #smallgroup #faithfriends #church #rootedapp\n\n.\n.\n.\nAnswer: \"Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest.\" Joshua 1:9 (KJV)",
+   "alt_text": "Be strong and of a good courage... for the LORD thy God is ____.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-04-24",
+   "pillar": "Weekend Verse",
+   "hook": "He's not finished with you.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-24/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-24/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-04-24T07:00:00-05:00",
+   "caption": "Philippians 1:6 (KJV) Who needs this verse today? Send it to them.\n\nSave and share.\n\n#bibleverse #dailyverse #christian #faith #rootedapp",
+   "alt_text": "He's not finished with you.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-04-25",
+   "pillar": "Keep the Sermon",
+   "hook": "Today's sermon deserves more than a Sunday.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-25/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-25/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-04-25T14:00:00-05:00",
+   "caption": "Open SpiritScript, tap record, and get the transcript, a summary and every verse your pastor mentioned. What is your church preaching through right now?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Today's sermon deserves more than a Sunday.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-04-26",
+   "pillar": "Keep the Sermon",
+   "hook": "How to study the verses your pastor mentioned",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-26/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-26/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-26/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-26/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-26/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-26/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-26/slide-07.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-26/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-26/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-26/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-26/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-26/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-26/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-26/slide-07.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-04-26T07:00:00-05:00",
+   "caption": "Save this so you can come back to it. Which one do you need to start this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "How to study the verses your pastor mentioned",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-04-27",
+   "pillar": "Understand the Word",
+   "hook": "The fruit of the Spirit, one by one",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-27/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-27/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-27/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-27/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-27/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-27/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-27/slide-07.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-27/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-27/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-27/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-27/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-27/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-27/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-27/slide-07.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-04-27T07:00:00-05:00",
+   "caption": "Save this so you can come back to it. Which fruit do you most want to grow this year?\n\nDownload Rooted: link in bio.\n\n#biblestudy #bibleverse #scripture #christian #rootedapp",
+   "alt_text": "The fruit of the Spirit, one by one",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-04-28",
+   "pillar": "Pray & Write",
+   "hook": "Pray for students in finals season.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-28/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-28/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-04-28T07:00:00-05:00",
+   "caption": "Post a request on the Prayer Wall in Rooted, or pray for someone else's. Who or what are you praying for today?\n\nDownload Rooted: link in bio.\n\n#prayer #prayerjournal #christianwomen #faith #rootedapp",
+   "alt_text": "Pray for students in finals season.",
    "queued_in_buffer": false
   },
   {
@@ -1261,6 +4640,106 @@
    "queued_in_buffer": false
   },
   {
+   "original_date": "2027-04-30",
+   "pillar": "Faith with Friends",
+   "hook": "Study the Bible alone or with a group?",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-30/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-04-30/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-04-30T07:00:00-05:00",
+   "caption": "Which one are you? Comment below.\n\nDownload Rooted: link in bio.\n\n#christiancommunity #smallgroup #faithfriends #church #rootedapp",
+   "alt_text": "Study the Bible alone or with a group?",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-01",
+   "pillar": "Feature Spotlight",
+   "hook": "Stuck on a verse? Read it in plain language.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-01/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-01/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-01T07:00:00-05:00",
+   "caption": "Stuck on a verse? Read it in plain language. Plain-language interpretation. Highlights and bookmarks. Audio for every chapter. Which feature would you use most?\n\nDownload Rooted: link in bio.\n\n#christianapp #biblestudy #christian #faith #rootedapp",
+   "alt_text": "Stuck on a verse? Read it in plain language.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-02",
+   "pillar": "Keep the Sermon",
+   "hook": "Record it today. Reread it Monday.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-02/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-02/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-02T14:00:00-05:00",
+   "caption": "Open SpiritScript, tap record, and get the transcript, a summary and every verse your pastor mentioned. What is your church preaching through right now?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Record it today. Reread it Monday.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-03",
+   "pillar": "Keep the Sermon",
+   "hook": "What is one verse from Sunday you're carrying this week?",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-03/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-03/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-03T07:00:00-05:00",
+   "caption": "SpiritScript keeps the transcript, summary and every verse from Sunday, so Monday has something to stand on. What's one thing from Sunday you're putting into practice this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "What is one verse from Sunday you're carrying this week?",
+   "queued_in_buffer": false
+  },
+  {
    "original_date": "2027-05-04",
    "pillar": "Understand the Word",
    "hook": "Everyone knows John 3:16. Read verse 17.",
@@ -1283,6 +4762,112 @@
    "post_at": "2027-05-04T07:00:00-05:00",
    "caption": "'For God sent not his Son into the world to condemn the world; but that the world through him might be saved.' John 3:17 (KJV).\n\nDownload Rooted: link in bio.\n\n#biblestudy #bibleverse #scripture #christian #rootedapp",
    "alt_text": "Everyone knows John 3:16. Read verse 17.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-05",
+   "pillar": "Pray & Write",
+   "hook": "Tomorrow is the National Day of Prayer. Who are you praying for?",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-05/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-05/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-05T07:00:00-05:00",
+   "caption": "Post a request on the Prayer Wall in Rooted, or pray for someone else's. Who or what are you praying for today?\n\nDownload Rooted: link in bio.\n\n#prayer #prayerjournal #christianwomen #faith #rootedapp",
+   "alt_text": "Tomorrow is the National Day of Prayer. Who are you praying for?",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-06",
+   "pillar": "Pray & Write",
+   "hook": "Today is the National Day of Prayer.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-06/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-06/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-06T19:00:00-05:00",
+   "caption": "Post a request on the Prayer Wall in Rooted and pray for someone else's today. What are you praying for today?\n\nDownload Rooted: link in bio.\n\n#prayer #prayerjournal #christianwomen #faith #rootedapp",
+   "alt_text": "Today is the National Day of Prayer.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-07",
+   "pillar": "Faith with Friends",
+   "hook": "Need prayer? You don't have to carry it alone.",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-07/feed.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-07/story.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-07/feed.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-07/story.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-07T07:00:00-05:00",
+   "caption": "Need prayer? You don't have to carry it alone. Find it in Prayer Wall in Rooted. Have you tried it yet?\n\nDownload Rooted: link in bio.\n\n#christiancommunity #smallgroup #faithfriends #church #rootedapp",
+   "alt_text": "Need prayer? You don't have to carry it alone.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-08",
+   "pillar": "Weekend Verse",
+   "hook": "Faith passed down. Happy Mother's Day weekend.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-08/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-08/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-08T07:00:00-05:00",
+   "caption": "2 Timothy 1:5 (KJV) Who needs this verse today? Send it to them.\n\nSave and share.\n\n#bibleverse #dailyverse #christian #faith #rootedapp",
+   "alt_text": "Faith passed down. Happy Mother's Day weekend.",
    "queued_in_buffer": false
   },
   {
@@ -1311,6 +4896,67 @@
    "queued_in_buffer": false
   },
   {
+   "original_date": "2027-05-10",
+   "pillar": "Keep the Sermon",
+   "hook": "Talk about Sunday's sermon at the dinner table",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-10/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-10/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-10/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-10/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-10/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-10/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-10/slide-07.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-10/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-10/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-10/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-10/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-10/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-10/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-10/slide-07.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-10T07:00:00-05:00",
+   "caption": "Save this so you can come back to it. Which one do you need to start this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Talk about Sunday's sermon at the dinner table",
+   "queued_in_buffer": false
+  },
+  {
    "original_date": "2027-05-11",
    "pillar": "Understand the Word",
    "hook": "Proverbs 31 isn't a checklist.",
@@ -1336,6 +4982,31 @@
    "queued_in_buffer": false
   },
   {
+   "original_date": "2027-05-12",
+   "pillar": "Pray & Write",
+   "hook": "Pray for the moms who found this week hard.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-12/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-12/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-12T07:00:00-05:00",
+   "caption": "Post a request on the Prayer Wall in Rooted, or pray for someone else's. Who or what are you praying for today?\n\nDownload Rooted: link in bio.\n\n#prayer #prayerjournal #christianwomen #faith #rootedapp",
+   "alt_text": "Pray for the moms who found this week hard.",
+   "queued_in_buffer": false
+  },
+  {
    "original_date": "2027-05-13",
    "pillar": "Trivia Thursday",
    "hook": "Moms of the Bible trivia.",
@@ -1358,6 +5029,564 @@
    "post_at": "2027-05-13T19:00:00-05:00",
    "caption": "Tag a mom who'd ace this.\n\nDownload Rooted: link in bio.\n\n#bibletrivia #biblegames #christianfun #triviathursday #rootedapp",
    "alt_text": "Moms of the Bible trivia.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-14",
+   "pillar": "Faith with Friends",
+   "hook": "My mom taught me ____ about God.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-14/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-14/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-14T07:00:00-05:00",
+   "caption": "Fill in the blank in the comments.\n\nDownload Rooted: link in bio.\n\n#christiancommunity #smallgroup #faithfriends #church #rootedapp",
+   "alt_text": "My mom taught me ____ about God.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-15",
+   "pillar": "Feature Spotlight",
+   "hook": "Find believers from your own church.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-15/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-15/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-15T07:00:00-05:00",
+   "caption": "Find believers from your own church. Discover people from your church. See mutual friends. Grow together. Which feature would you use most?\n\nDownload Rooted: link in bio.\n\n#christianapp #biblestudy #christian #faith #rootedapp",
+   "alt_text": "Find believers from your own church.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-16",
+   "pillar": "Seasonal",
+   "hook": "Happy Pentecost Sunday.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-16/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-16/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-16T14:00:00-05:00",
+   "caption": "Acts 2:4 (KJV) What do you know about Pentecost? Tell us below.\n\nSave and share.\n\n#bibleverse #christian #faith #holidays #rootedapp",
+   "alt_text": "Happy Pentecost Sunday.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-17",
+   "pillar": "Keep the Sermon",
+   "hook": "The same Spirit goes with you into Monday.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-17/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-17/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-17T07:00:00-05:00",
+   "caption": "SpiritScript keeps the transcript, summary and every verse from Sunday, so Monday has something to stand on. What's one thing from Sunday you're putting into practice this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "The same Spirit goes with you into Monday.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-18",
+   "pillar": "Understand the Word",
+   "hook": "Pentecost was a feast before it was the Spirit's arrival",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-18/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-18/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-18/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-18/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-18/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-18/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-18/slide-07.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-18/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-18/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-18/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-18/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-18/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-18/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-18/slide-07.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-18T07:00:00-05:00",
+   "caption": "Save this so you can come back to it. What does your church do for Pentecost?\n\nDownload Rooted: link in bio.\n\n#biblestudy #bibleverse #scripture #christian #rootedapp",
+   "alt_text": "Pentecost was a feast before it was the Spirit's arrival",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-19",
+   "pillar": "Pray & Write",
+   "hook": "Pray for boldness to share your faith.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-19/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-19/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-19T07:00:00-05:00",
+   "caption": "Add it to Upper Room in Rooted, and mark it answered when God moves. Who or what are you praying for today?\n\nDownload Rooted: link in bio.\n\n#prayer #prayerjournal #christianwomen #faith #rootedapp",
+   "alt_text": "Pray for boldness to share your faith.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-20",
+   "pillar": "Trivia Thursday",
+   "hook": "Pentecost trivia. How well do you know Acts 2?",
+   "kind": "video",
+   "instagram": {
+    "type": "reel",
+    "assets": [
+     {
+      "video": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-20/video.mp4"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "video": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-20/video.mp4"
+     }
+    ]
+   },
+   "post_at": "2027-05-20T19:00:00-05:00",
+   "caption": "Trivia Thursday! Answers are in the video. How many did you get? Be honest.\n\nDownload Rooted: link in bio.\n\n#bibletrivia #biblegames #christianfun #triviathursday #rootedapp",
+   "alt_text": "Pentecost trivia. How well do you know Acts 2?",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-21",
+   "pillar": "Faith with Friends",
+   "hook": "RhemaRush: race to unscramble 5 Bible words.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-21/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-21/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-21T07:00:00-05:00",
+   "caption": "RhemaRush: race to unscramble 5 Bible words. Find it in Bible Playzone in Rooted. Have you tried it yet?\n\nDownload Rooted: link in bio.\n\n#christiancommunity #smallgroup #faithfriends #church #rootedapp",
+   "alt_text": "RhemaRush: race to unscramble 5 Bible words.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-22",
+   "pillar": "Weekend Verse",
+   "hook": "He rejoices over you.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-22/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-22/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-22T07:00:00-05:00",
+   "caption": "Zephaniah 3:17 (KJV) Who needs this verse today? Send it to them.\n\nSave and share.\n\n#bibleverse #dailyverse #christian #faith #rootedapp",
+   "alt_text": "He rejoices over you.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-23",
+   "pillar": "Keep the Sermon",
+   "hook": "Don't let today's sermon fade by Wednesday.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-23/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-23/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-23T14:00:00-05:00",
+   "caption": "Open SpiritScript, tap record, and get the transcript, a summary and every verse your pastor mentioned. What is your church preaching through right now?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Don't let today's sermon fade by Wednesday.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-24",
+   "pillar": "Keep the Sermon",
+   "hook": "Why you should save your sermons",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-24/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-24/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-24/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-24/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-24/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-24/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-24/slide-07.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-24/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-24/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-24/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-24/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-24/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-24/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-24/slide-07.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-24T07:00:00-05:00",
+   "caption": "Save this so you can come back to it. Which one do you need to start this week?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "Why you should save your sermons",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-25",
+   "pillar": "Understand the Word",
+   "hook": "The armor of God, piece by piece",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-25/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-25/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-25/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-25/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-25/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-25/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-25/slide-07.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-25/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-25/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-25/slide-03.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-25/slide-04.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-25/slide-05.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-25/slide-06.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-25/slide-07.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-25T07:00:00-05:00",
+   "caption": "Save this so you can come back to it. Which piece do you need most this week?\n\nDownload Rooted: link in bio.\n\n#biblestudy #bibleverse #scripture #christian #rootedapp",
+   "alt_text": "The armor of God, piece by piece",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-26",
+   "pillar": "Pray & Write",
+   "hook": "Pray for this year's graduates.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-26/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-26/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-26T07:00:00-05:00",
+   "caption": "Post a request on the Prayer Wall in Rooted, or pray for someone else's. Who or what are you praying for today?\n\nDownload Rooted: link in bio.\n\n#prayer #prayerjournal #christianwomen #faith #rootedapp",
+   "alt_text": "Pray for this year's graduates.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-27",
+   "pillar": "Trivia Thursday",
+   "hook": "Finish the verse. No peeking.",
+   "kind": "video",
+   "instagram": {
+    "type": "reel",
+    "assets": [
+     {
+      "video": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-27/video.mp4"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "video": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-27/video.mp4"
+     }
+    ]
+   },
+   "post_at": "2027-05-27T19:00:00-05:00",
+   "caption": "Trivia Thursday! Answers are in the video. How many did you get? Be honest.\n\nDownload Rooted: link in bio.\n\n#bibletrivia #biblegames #christianfun #triviathursday #rootedapp",
+   "alt_text": "Finish the verse. No peeking.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-28",
+   "pillar": "Faith with Friends",
+   "hook": "This summer I'm reading the book of ____.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-28/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-28/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-28T07:00:00-05:00",
+   "caption": "Fill in the blank in the comments.\n\nDownload Rooted: link in bio.\n\n#christiancommunity #smallgroup #faithfriends #church #rootedapp",
+   "alt_text": "This summer I'm reading the book of ____.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-29",
+   "pillar": "Feature Spotlight",
+   "hook": "A small daily habit. Real roots.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-29/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-29/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-29T07:00:00-05:00",
+   "caption": "A small daily habit. Real roots. A few minutes a day. Gentle streaks. A plan for the week. Which feature would you use most?\n\nDownload Rooted: link in bio.\n\n#christianapp #biblestudy #christian #faith #rootedapp",
+   "alt_text": "A small daily habit. Real roots.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-30",
+   "pillar": "Keep the Sermon",
+   "hook": "One sermon. Every verse. Saved.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-30/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-30/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-30T14:00:00-05:00",
+   "caption": "Open SpiritScript, tap record, and get the transcript, a summary and every verse your pastor mentioned. What is your church preaching through right now?\n\nDownload Rooted: link in bio.\n\n#sermonnotes #church #christiantiktok #faith #rootedapp",
+   "alt_text": "One sermon. Every verse. Saved.",
+   "queued_in_buffer": false
+  },
+  {
+   "original_date": "2027-05-31",
+   "pillar": "Seasonal",
+   "hook": "Memorial Day. We remember.",
+   "kind": "graphic",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-31/feed.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2027-05-31/feed.jpg"
+     }
+    ]
+   },
+   "post_at": "2027-05-31T07:00:00-05:00",
+   "caption": "John 15:13 (KJV) Who are you remembering today?\n\nSave and share.\n\n#bibleverse #christian #faith #holidays #rootedapp",
+   "alt_text": "Memorial Day. We remember.",
    "queued_in_buffer": false
   }
  ]
