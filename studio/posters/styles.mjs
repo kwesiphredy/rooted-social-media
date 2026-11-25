@@ -28,3 +28,8 @@ export const FEATURE_PHOTO = {
   'BibleWell': [P + 'hands-biblewell.jpg', '60% center'],
   'Daily Verse Drop': [P + 'app-home-stones.jpg', 'center'],
 };
+// per-date photo picks so the same shot doesn't repeat and screens match the post
+export const PHOTO_BY_DATE = {
+  '2027-02-06': [P + 'app-two-phones-dark.jpg', 'center'],
+  '2027-05-21': [P + 'app-two-phones-dark.jpg', 'center'],
+};

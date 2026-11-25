@@ -3,7 +3,7 @@
 import fs from 'node:fs';
 import * as K from './kit.mjs';
 import * as K2 from './kit2.mjs';
-import { STYLE, FEATURE_PHOTO } from './styles.mjs';
+import { STYLE, FEATURE_PHOTO, PHOTO_BY_DATE } from './styles.mjs';
 const rows = JSON.parse(fs.readFileSync('plan182.json', 'utf8'));
 const only = process.argv.slice(2);
 const photos = fs.existsSync('photos/manifest.json') ? JSON.parse(fs.readFileSync('photos/manifest.json', 'utf8')) : [];
@@ -32,7 +32,7 @@ for (const r of rows) {
   let pages = [];
   const st = STYLE[r.date];
   if (st) { Object.assign(p, st); pages = [K2[st.layout](p)]; }
-  else if (r.kind === 'spotlight' && FEATURE_PHOTO[p.feature]) { p.bullets = p.bullets || FEATURE_BULLETS[p.feature] || []; [p.photo, p.photoPos] = FEATURE_PHOTO[p.feature]; pages = [K2.photoFeature(p)]; }
+  else if (r.kind === 'spotlight' && FEATURE_PHOTO[p.feature]) { p.bullets = p.bullets || FEATURE_BULLETS[p.feature] || []; [p.photo, p.photoPos] = PHOTO_BY_DATE[r.date] || FEATURE_PHOTO[p.feature]; pages = [K2.photoFeature(p)]; }
   else if (r.kind === 'carousel') pages = K.carousel(p);
   else if (r.kind === 'flier' && r.pillar === 'Keep the Sermon') {
     if (dow === 0) { p.label = 'Sunday Sermon'; p.script = 'before church'; p.photo = pickPhoto(['church', 'worship', 'sermon']); pages = [K.sermonPoster(p, 0)]; }
