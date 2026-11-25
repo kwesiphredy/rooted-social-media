@@ -84,5 +84,335 @@
   "people": false,
   "credit": "Rooted website mockups (Fred's own assets)",
   "used": false
+ },
+ {
+  "file": "worship-hands-raised-stage.jpg",
+  "tags": [
+   "worship",
+   "church"
+  ],
+  "people": true,
+  "credit": "Pexels photo 2774551 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/2774551/",
+  "used": false
+ },
+ {
+  "file": "worship-woman-hand-raised.jpg",
+  "tags": [
+   "worship",
+   "church"
+  ],
+  "people": true,
+  "credit": "Pexels photo 8942890 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/8942890/",
+  "used": false
+ },
+ {
+  "file": "silhouette-arms-raised-sunrise.jpg",
+  "tags": [
+   "worship",
+   "silhouette",
+   "morning",
+   "nature"
+  ],
+  "people": true,
+  "credit": "Pexels photo 13181181 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/13181181/",
+  "used": false
+ },
+ {
+  "file": "silhouette-arms-raised-sunset.jpg",
+  "tags": [
+   "worship",
+   "silhouette",
+   "nature"
+  ],
+  "people": true,
+  "credit": "Pexels photo 17302716 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/17302716/",
+  "used": false
+ },
+ {
+  "file": "silhouette-open-arms-sky.jpg",
+  "tags": [
+   "silhouette",
+   "nature",
+   "hope"
+  ],
+  "people": true,
+  "credit": "Pexels photo 33348835 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/33348835/",
+  "used": false
+ },
+ {
+  "file": "friends-worship-guitar-livingroom.jpg",
+  "tags": [
+   "friends",
+   "group",
+   "worship"
+  ],
+  "people": true,
+  "credit": "Pexels photo 6860844 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/6860844/",
+  "used": false
+ },
+ {
+  "file": "group-praying-livingroom.jpg",
+  "tags": [
+   "group",
+   "prayer",
+   "friends"
+  ],
+  "people": true,
+  "credit": "Pexels photo 6860380 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/6860380/",
+  "used": false
+ },
+ {
+  "file": "friends-bible-study-table.jpg",
+  "tags": [
+   "friends",
+   "group",
+   "bible"
+  ],
+  "people": true,
+  "credit": "Pexels photo 4778621 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/4778621/",
+  "used": false
+ },
+ {
+  "file": "two-men-bible-study.jpg",
+  "tags": [
+   "friends",
+   "bible",
+   "sermon"
+  ],
+  "people": true,
+  "credit": "Pexels photo 5676678 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/5676678/",
+  "used": false
+ },
+ {
+  "file": "woman-praying-open-bible.jpg",
+  "tags": [
+   "prayer",
+   "bible"
+  ],
+  "people": false,
+  "credit": "Pexels photo 6860405 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/6860405/",
+  "used": false
+ },
+ {
+  "file": "woman-holding-bible-eyes-closed.jpg",
+  "tags": [
+   "prayer",
+   "bible"
+  ],
+  "people": true,
+  "credit": "Pexels photo 13172176 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/13172176/",
+  "used": false
+ },
+ {
+  "file": "man-praying-black-and-white.jpg",
+  "tags": [
+   "prayer"
+  ],
+  "people": true,
+  "credit": "Pexels photo 7533332 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/7533332/",
+  "used": false
+ },
+ {
+  "file": "young-man-praying-outdoors.jpg",
+  "tags": [
+   "prayer",
+   "nature"
+  ],
+  "people": true,
+  "credit": "Pexels photo 16984852 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/16984852/",
+  "used": false
+ },
+ {
+  "file": "man-praying-hands-sunlight.jpg",
+  "tags": [
+   "prayer"
+  ],
+  "people": true,
+  "credit": "Pexels photo 1334944 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/1334944/",
+  "used": false
+ },
+ {
+  "file": "family-praying-dinner.jpg",
+  "tags": [
+   "family",
+   "prayer"
+  ],
+  "people": true,
+  "credit": "Pexels photo 5813817 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/5813817/",
+  "used": false
+ },
+ {
+  "file": "couple-praying-dinner.jpg",
+  "tags": [
+   "family",
+   "prayer"
+  ],
+  "people": true,
+  "credit": "Pexels photo 5813815 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/5813815/",
+  "used": false
+ },
+ {
+  "file": "family-three-generations-praying.jpg",
+  "tags": [
+   "family",
+   "prayer",
+   "mom"
+  ],
+  "people": true,
+  "credit": "Pexels photo 5591220 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/5591220/",
+  "used": false
+ },
+ {
+  "file": "bible-coffee-morning.jpg",
+  "tags": [
+   "bible",
+   "coffee",
+   "morning"
+  ],
+  "people": false,
+  "credit": "Pexels photo 8383476 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/8383476/",
+  "used": false
+ },
+ {
+  "file": "bible-breakfast-morning.jpg",
+  "tags": [
+   "bible",
+   "coffee",
+   "morning"
+  ],
+  "people": false,
+  "credit": "Pexels photo 8383462 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/8383462/",
+  "used": false
+ },
+ {
+  "file": "bible-journal-phone-flatlay.jpg",
+  "tags": [
+   "journal",
+   "bible",
+   "phone",
+   "coffee"
+  ],
+  "people": false,
+  "credit": "Pexels photo 8383497 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/8383497/",
+  "used": false
+ },
+ {
+  "file": "journal-writing-bible.jpg",
+  "tags": [
+   "journal",
+   "bible"
+  ],
+  "people": true,
+  "credit": "Pexels photo 8383482 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/8383482/",
+  "used": false
+ },
+ {
+  "file": "man-writing-notes-bible.jpg",
+  "tags": [
+   "sermon",
+   "journal",
+   "bible"
+  ],
+  "people": true,
+  "credit": "Pexels photo 5206086 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/5206086/",
+  "used": false
+ },
+ {
+  "file": "hands-reading-bible-notes.jpg",
+  "tags": [
+   "bible",
+   "sermon"
+  ],
+  "people": true,
+  "credit": "Pexels photo 5206052 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/5206052/",
+  "used": false
+ },
+ {
+  "file": "man-holding-bible-desk.jpg",
+  "tags": [
+   "bible"
+  ],
+  "people": true,
+  "credit": "Pexels photo 5206083 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/5206083/",
+  "used": false
+ },
+ {
+  "file": "man-reading-bible-dim.jpg",
+  "tags": [
+   "bible"
+  ],
+  "people": true,
+  "credit": "Pexels photo 9588265 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/9588265/",
+  "used": false
+ },
+ {
+  "file": "open-bible-coffee-flowers.jpg",
+  "tags": [
+   "bible",
+   "morning",
+   "coffee"
+  ],
+  "people": false,
+  "credit": "Pexels photo 7987075 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/7987075/",
+  "used": false
+ },
+ {
+  "file": "bible-flatlay-flowers.jpg",
+  "tags": [
+   "bible",
+   "morning"
+  ],
+  "people": false,
+  "credit": "Pexels photo 22711047 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/22711047/",
+  "used": false
+ },
+ {
+  "file": "woman-studying-bible-note.jpg",
+  "tags": [
+   "bible",
+   "journal"
+  ],
+  "people": true,
+  "credit": "Pexels photo 33565388 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/33565388/",
+  "used": false
+ },
+ {
+  "file": "woman-journaling-bed.jpg",
+  "tags": [
+   "journal",
+   "morning"
+  ],
+  "people": true,
+  "credit": "Pexels photo 6633736 (free Pexels license)",
+  "source": "https://www.pexels.com/photo/6633736/",
+  "used": false
  }
 ]

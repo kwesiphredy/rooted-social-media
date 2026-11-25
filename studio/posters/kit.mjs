@@ -63,6 +63,7 @@ const verseBlock = (text, ref, { color = '#fff', size = 30, refColor = 'var(--pe
   <div style="margin-top:14px;font-weight:700;letter-spacing:0.2em;font-size:19px;color:${refColor};text-transform:uppercase">${esc(ref)}</div>`;
 };
 
+export const duo = (src, pos = 'center', { tint = 'var(--teal)', strength = 1 } = {}) => `<div class="abs" style="inset:0;background:url('${src}') ${pos}/cover;filter:grayscale(1) contrast(1.15) brightness(0.95)"></div><div class="abs" style="inset:0;background:${tint};mix-blend-mode:multiply;opacity:${strength}"></div><div class="abs" style="inset:0;background:var(--peach);mix-blend-mode:soft-light;opacity:0.35"></div>`;
 const glow = (x, y, c, s = 900) => `<div class="abs" style="left:${x - s / 2}px;top:${y - s / 2}px;width:${s}px;height:${s}px;border-radius:50%;background:radial-gradient(circle, ${c} 0%, transparent 65%)"></div>`;
 
 const ovalRail = (words, color) => `<div style="display:flex;align-items:center;gap:16px;color:${color};font-family:'Block';font-size:22px;text-transform:uppercase;letter-spacing:0.04em;white-space:nowrap">${words.map((w, i) => (i ? `<div style="flex:1;height:22px;border:3px solid ${color};border-radius:999px;min-width:60px"></div>` : '') + `<span>${esc(w)}</span>`).join('')}</div>`;
@@ -91,9 +92,9 @@ export function sermonPoster(p, v = 0) {
   const fg = cream ? 'var(--teal-ink)' : '#fff';
   const acc = cream ? 'var(--rust)' : 'var(--peach)';
   const bg = cream ? '' : `background: radial-gradient(110% 80% at 50% 0%, var(--teal-lift) 0%, var(--teal) 45%, var(--teal-ink) 100%);`;
-  const photo = p.photo ? `<div class="abs" style="inset:0;background:url('${p.photo}') center/cover;filter:grayscale(1) contrast(1.1)"></div><div class="abs" style="inset:0;background:linear-gradient(180deg, rgba(28,48,48,0.55), rgba(19,34,34,0.92));mix-blend-mode:multiply"></div><div class="abs" style="inset:0;background:linear-gradient(180deg, rgba(45,74,74,0.35), rgba(19,34,34,0.85))"></div>` : '';
+  const photo = p.photo ? `${duo(p.photo, p.photoPos || 'center 30%', { strength: 0.7 })}<div class="abs" style="inset:0;background:linear-gradient(180deg, rgba(19,34,34,0.30) 0%, rgba(19,34,34,0.15) 40%, rgba(19,34,34,0.80) 70%, rgba(19,34,34,0.95) 100%)"></div>` : '';
   return `<div id="stage" class="grain ${cream && !p.photo ? 'paper' : ''}" style="${bg}">${photo}
-  ${cream ? `<div class="abs" style="left:-80px;top:815px;width:1300px;height:190px;background:var(--teal);transform:rotate(-3deg);clip-path:${torn(r, { amp: 6 })}"></div>` : glow(880, 280, 'rgba(244,196,160,0.22)', 1100)}
+  ${cream ? `<div class="abs" style="left:-80px;top:815px;width:1300px;height:190px;background:var(--teal);transform:rotate(-3deg);clip-path:${torn(r, { amp: 6 })};overflow:hidden">${p.bandPhoto ? duo(p.bandPhoto, p.bandPos || 'center 40%') : ''}</div>` : glow(880, 280, 'rgba(244,196,160,0.22)', 1100)}
   <div class="abs" style="left:0;right:0;top:64px;display:flex;justify-content:center">${lockup(p.label || 'Keep the Sermon', { fg })}</div>
   ${p.kicker ? `<div class="abs edit" style="left:0;right:0;top:186px;text-align:center;font-style:italic;font-size:40px;color:${acc}">${esc(p.kicker)}</div>` : ''}
   <div class="abs" style="left:70px;top:${p.kicker ? 250 : 220}px;width:940px">
@@ -127,9 +128,10 @@ export function collageVerse(p, v = 0) {
   <div class="tape" style="left:120px;top:140px;width:220px;transform:rotate(-12deg)"></div>
   <div class="tape" style="right:110px;top:880px;width:200px;transform:rotate(9deg)"></div>
   <div class="abs" style="left:60px;right:60px;top:62px">${ovalRail(p.rail || ['Rooted', 'Weekend', 'Verse'], v % 3 === 1 ? 'var(--teal-ink)' : '#fff')}</div>
-  <div class="abs" style="left:80px;top:220px;width:920px">
-    ${stack(L.map((t, i) => [t.toUpperCase(), i % 2 ? pal.hi : pal.ink]), { w: 920, h: 600, max: 250 })}
+  <div class="abs" style="left:80px;top:${p.photo ? 190 : 220}px;width:920px">
+    ${stack(L.map((t, i) => [t.toUpperCase(), i % 2 ? pal.hi : pal.ink]), { w: 920, h: p.photo ? 430 : 600, max: p.photo ? 200 : 250 })}
   </div>
+  ${p.photo ? `<div class="abs" style="left:-30px;right:-30px;top:650px;height:300px;transform:rotate(-2deg);clip-path:${torn(r, { amp: 5 })};overflow:hidden;box-shadow:0 10px 30px rgba(0,0,0,0.3)">${duo(p.photo, p.photoPos || 'center 35%')}</div><div class="tape" style="left:430px;top:630px;width:220px;transform:rotate(3deg)"></div>` : ''}
   <div class="abs" style="left:90px;right:90px;top:960px;background:var(--cream);padding:34px 40px;box-shadow:0 18px 40px rgba(0,0,0,0.25);transform:rotate(-1deg);clip-path:${torn(r, { amp: 1.4 })}">
     ${verseBlock(p.verse_text, p.verse_ref, { color: 'var(--ink)', size: 28, refColor: 'var(--rust)', max: 300 })}
   </div>
@@ -145,7 +147,7 @@ export function prayerCream(p) {
   return `<div id="stage" class="paper grain" style="--grain:0.14">
   <div class="abs" style="right:-30px;top:40px;width:300px;height:450px;transform:rotate(12deg)">${sprig()}</div>
   <div class="abs" style="left:-40px;bottom:120px;width:240px;height:360px;transform:rotate(-160deg)">${sprig('var(--teal)', 0.18)}</div>
-  <div class="abs" style="right:-160px;bottom:-140px;width:520px;height:520px;border-radius:50%;background:var(--peach);opacity:0.55"></div>
+  ${p.photo ? `<div class="abs" style="right:-120px;bottom:-110px;width:560px;height:560px;border-radius:50%;background:var(--peach);padding:14px"><div style="width:100%;height:100%;border-radius:50%;background:url('${p.photo}') ${p.photoPos || 'center'}/cover;filter:saturate(0.85)"></div></div>` : `<div class="abs" style="right:-160px;bottom:-140px;width:520px;height:520px;border-radius:50%;background:var(--peach);opacity:0.55"></div>`}
   <div class="abs" style="left:80px;top:80px">${lockup('', { fg: 'var(--teal-ink)', tile: 'var(--teal)', mark: 'var(--peach)' })}</div>
   <div class="abs caps" style="left:84px;top:200px;font-size:20px;color:var(--gold)">Prayer prompt · ${esc(p.dayname || 'Wednesday')}</div>
   <div class="abs edit" style="left:80px;top:250px;width:900px;color:var(--ink);font-size:${a.length + b.length > 60 ? 84 : a.length + b.length > 34 ? 100 : 118}px;line-height:1.05;letter-spacing:-0.01em">
@@ -253,6 +255,7 @@ export function carousel(p) {
   const pages = [];
   const L = lines(p.hook, 4);
   pages.push(`<div id="stage" class="grain" style="background:radial-gradient(110% 80% at 50% 0%, var(--teal-lift), var(--teal) 45%, var(--teal-ink))">
+    ${p.photo ? `${duo(p.photo, p.photoPos || 'center', { strength: 0.7 })}<div class="abs" style="inset:0;background:linear-gradient(180deg, rgba(19,34,34,0.35), rgba(19,34,34,0.15) 45%, rgba(19,34,34,0.8))"></div>` : ''}
     <div class="abs" style="left:0;right:0;top:64px;display:flex;justify-content:center">${lockup(p.pillar)}</div>
     <div class="abs" style="left:-60px;top:820px;width:1200px;height:220px;background:var(--peach);transform:rotate(-5deg);clip-path:${torn(r, { amp: 8 })}"></div>
     <div class="abs" style="left:70px;top:210px;width:940px">${stack(L.map((t, i) => [t.toUpperCase(), i === L.length - 1 ? 'var(--peach)' : '#fff']), { w: 940, h: 560, max: 210 })}</div>
