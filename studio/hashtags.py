@@ -7,6 +7,7 @@ CORE = {
  "Faith with Friends": ["#christiancommunity","#smallgroup","#faithfriends","#christianfriends","#fellowship","#youngadults","#youthgroup","#christianlife","#church","#bible","#faith","#jesus"],
  "Weekend Verse": ["#bibleverse","#dailyverse","#verseoftheday","#scripture","#kjv","#godsword","#encouragement","#christianquotes","#hope","#bible","#faith","#jesus","#christian"],
  "Feature Spotlight": ["#christianapp","#bibleapp","#prayerapp","#devotional","#biblestudy","#quiettime","#faithjourney","#christianliving","#faith","#jesus","#christian"],
+ "Launch": ["#comingsoon","#christianapp","#faith","#bible","#christian"],
  "Seasonal": ["#bibleverse","#scripture","#godsword","#encouragement","#bible","#faith","#jesus","#christian"],
 }
 SEASON = [  # (start, end, tags)
@@ -31,7 +32,8 @@ def tags_for(p):
     head,tail=core[:5],core[5:]
     k=h%len(tail); tail=tail[k:]+tail[:k]
     seas=[t for a,b,ts in SEASON if a<=d<b for t in ts]
-    ig=list(dict.fromkeys(seas+head+tail))[:17]+["#rootedapp"]
+    # Instagram caps hashtags at 5 per post (Dec 2025): 4 specific tags + #rootedapp
+    ig=list(dict.fromkeys(seas[:1]+head))[:4]+["#rootedapp"]
     tt=list(dict.fromkeys(TT_BASE+seas[:2]+head[:3]))+["#rootedapp"]
     fb=list(dict.fromkeys(seas[:1]+head[:3]))+["#rootedapp"]
     return ig,tt,fb
