@@ -414,5 +414,39 @@
   "credit": "Pexels photo 6633736 (free Pexels license)",
   "source": "https://www.pexels.com/photo/6633736/",
   "used": false
+ },
+ {
+  "file": "friends-bible-discussion-floor.jpg",
+  "tags": [
+   "friends",
+   "group",
+   "bible",
+   "sermon"
+  ],
+  "people": true,
+  "credit": "Pexels",
+  "source": "https://www.pexels.com/photo/6860826/"
+ },
+ {
+  "file": "women-bible-couch.jpg",
+  "tags": [
+   "friends",
+   "group",
+   "bible",
+   "women"
+  ],
+  "people": true,
+  "credit": "Pexels",
+  "source": "https://www.pexels.com/photo/30689318/"
+ },
+ {
+  "file": "woman-writing-journal.jpg",
+  "tags": [
+   "journal",
+   "prayer"
+  ],
+  "people": true,
+  "credit": "Pexels",
+  "source": "https://www.pexels.com/photo/7593768/"
  }
 ]

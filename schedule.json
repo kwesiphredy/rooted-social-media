@@ -2,6 +2,46 @@
  "note": "Rooted daily posts Dec 1, 2026 to May 31, 2027. Times are America/Chicago. Buffer is the source of truth for what is queued.",
  "posts": [
   {
+   "original_date": "2026-11-30",
+   "pillar": "Launch",
+   "hook": "Watch this space. Coming soon.",
+   "kind": "carousel",
+   "instagram": {
+    "type": "post",
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-11-30/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-11-30/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-11-30/slide-03.jpg"
+     }
+    ]
+   },
+   "tiktok": {
+    "assets": [
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-11-30/slide-01.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-11-30/slide-02.jpg"
+     },
+     {
+      "image": "https://raw.githubusercontent.com/kwesiphredy/rooted-social-media/main/2026-11-30/slide-03.jpg"
+     }
+    ]
+   },
+   "post_at": "2026-11-30T19:00:00-06:00",
+   "caption": "Something is growing. 🌱\n\nStarting Tuesday, Dec 1, Rooted posts every day: sermon notes, Bible study, prayer, devotions and Bible trivia. Follow and turn on notifications so you don't miss a day.\n\nWhich one are you most excited for: sermon notes, prayer or trivia?\n\nDownload Rooted: link in bio.\n\n#comingsoon #watchthisspace #christian #faith #jesus #bible #bibleverse #christianliving #biblestudy #prayer #devotional #christiancommunity #faithjourney #advent #godisgood #christianapp #newbeginnings #rootedapp",
+   "caption_tiktok": "Something is growing. 🌱\n\nStarting Tuesday, Dec 1, Rooted posts every day: sermon notes, Bible study, prayer, devotions and Bible trivia. Follow and turn on notifications so you don't miss a day.\n\nWhich one are you most excited for: sermon notes, prayer or trivia?\n\n#christiantiktok #fyp #foryou #comingsoon #advent #bibletok #faith #christianapp #rootedapp",
+   "caption_facebook": "Something is growing. 🌱\n\nStarting Tuesday, Dec 1, Rooted posts every day: sermon notes, Bible study, prayer, devotions and Bible trivia. Follow and turn on notifications so you don't miss a day.\n\nWhich one are you most excited for: sermon notes, prayer or trivia?\n\nGet Rooted: https://rootedapp.plexodev.com/go/facebook-bio\n\n#comingsoon #advent #faith #christian #rootedapp",
+   "caption_base": "Something is growing. 🌱\n\nStarting Tuesday, Dec 1, Rooted posts every day: sermon notes, Bible study, prayer, devotions and Bible trivia. Follow and turn on notifications so you don't miss a day.\n\nWhich one are you most excited for: sermon notes, prayer or trivia?",
+   "alt_text": "Rooted teaser: Watch this space. Coming soon. A new post every day starting Tuesday, Dec 1.",
+   "queued_in_buffer": false
+  },
+  {
    "original_date": "2026-12-01",
    "pillar": "Understand the Word",
    "hook": "What is Advent? Explained simply.",
