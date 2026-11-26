@@ -16,6 +16,9 @@ const PHOTO = {
   flowers: M + 'db646d4a00cf1d951a2e5639b6224a3a_open-bible-coffee-flowers.webp',
   journal: M + 'fbdaba752e1258d636769000fad7c6e0_woman-journaling-bed.webp',
   family: M + 'd7b9e535012b426dfe0266d7097a7c06_family-praying-dinner.webp',
+  discuss: M + '57f326236370b801854fcafebf3c3923_friends-bible-discussion.jpeg',
+  womenCouch: M + 'c5a1d0cd0801573c5d0570aa158849aa_women-bible-couch.jpeg',
+  writing: M + '07561edf0285098a32a9d6eee44eb0cf_woman-writing-journal.jpeg',
   worshipWoman: M + 'c918eda3625ef843a94fab1ae68494b8_worship-woman-hand-raised.webp',
 };
 
@@ -177,16 +180,16 @@ function Week() {
 
 /* ---------- features ---------- */
 const FEATURES = [
-  { id: 'spiritscript', name: 'SpiritScript', tag: 'Keep the sermon', photo: PHOTO.notes, note: 'Every verse he mentioned, saved.',
+  { id: 'spiritscript', name: 'SpiritScript', tag: 'Keep the sermon', photo: PHOTO.discuss, note: 'Every verse he mentioned, saved.',
     d: "Record Sunday's message and Rooted turns it into notes you can keep: a summary, every scripture reference, the lines worth remembering and what to do next.",
     caps: ['Transcribes the sermon as it is preached', 'Summary and key takeaways', 'Every scripture reference found', 'A sermon library you can search'] },
   { id: 'biblewell', name: 'BibleWell', tag: 'Understand the Word', photo: PHOTO.coffee, note: 'Tap a verse. Get it in plain words.',
     d: 'Read and listen to Scripture in a calm reader. Highlight, bookmark, and tap any verse for a plain-language explanation. Audio picks up where you stopped.',
     caps: ['Audio Bible that remembers your place', 'Highlights, notes and bookmarks', 'Verses explained in plain language'] },
-  { id: 'devodesk', name: 'DevoDesk', tag: 'A devotion for your season', photo: PHOTO.journal, note: '15 minutes. Every weekday.',
+  { id: 'devodesk', name: 'DevoDesk', tag: 'A devotion for your season', photo: PHOTO.womenCouch, note: '15 minutes. Every weekday.',
     d: 'A guided devotion built on Observe, Interpret, Apply and planned around your week, so what you study fits what you are walking through.',
     caps: ['Weekly devotion plans', 'Guided Observe, Interpret, Apply', 'Streaks that keep you going'] },
-  { id: 'soulnotes', name: 'SoulNotes', tag: 'Your private journal', photo: PHOTO.coffee, note: 'Look back and see what God did.',
+  { id: 'soulnotes', name: 'SoulNotes', tag: 'Your private journal', photo: PHOTO.writing, pos: '50% 25%', note: 'Look back and see what God did.',
     d: 'Write or speak your reflections, prayers and answered prayers. Private by default, so you can be honest.',
     caps: ['Private by default', 'Seasons and moods over time', 'Write or speak your entries'] },
   { id: 'prayerwall', name: 'Upper Room', tag: 'Pray with purpose', photo: PHOTO.prayer, note: 'Mark it answered.',
@@ -216,7 +219,7 @@ function Feature({ f, i }) {
           <ul className="ps-list">{f.caps.map((c) => <li key={c}>{c}</li>)}</ul>
         </Reveal>
         <Reveal delay={0.1} className="ps-feat-art">
-          <Duo src={f.photo} className="photo" alt="" style={bg === 'paper' ? undefined : { '--duo': '#8A4A2C', '--duo-a': .55 }} />
+          <Duo src={f.photo} pos={f.pos} className="photo" alt="" style={bg === 'paper' ? undefined : { '--duo': '#8A4A2C', '--duo-a': .55 }} />
           {b && <Phone src={b} alt={`${f.name} in Rooted`} className="ph2" />}
           {a && (
             <div className="ph1">
