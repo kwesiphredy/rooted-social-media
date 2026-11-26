@@ -30,7 +30,8 @@ def tags_for(p):
     h=int(hashlib.md5(d.encode()).hexdigest(),16)
     # keep the first 5 (most relevant) and rotate the rest so sets vary day to day
     head,tail=core[:5],core[5:]
-    k=h%len(tail); tail=tail[k:]+tail[:k]
+    if tail:
+        k=h%len(tail); tail=tail[k:]+tail[:k]
     seas=[t for a,b,ts in SEASON if a<=d<b for t in ts]
     # Instagram caps hashtags at 5 per post (Dec 2025): 4 specific tags + #rootedapp
     ig=list(dict.fromkeys(seas[:1]+head))[:4]+["#rootedapp"]
