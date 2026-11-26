@@ -79,7 +79,7 @@
 /* ===== nav ===== */
 .ps-nav { position: fixed; top: 0; left: 0; right: 0; z-index: 60; }
 .ps-nav-bar { height: 64px; display: flex; align-items: center; justify-content: space-between; }
-.ps-nav-bg { position: absolute; inset: 0 0 -10px; z-index: -1; }
+.ps-nav-bg { position: absolute; inset: 0; z-index: -1; box-shadow: 0 1px 0 rgba(45,74,74,.12), 0 8px 24px -16px rgba(0,0,0,.35); }
 .ps-logo { display: flex; align-items: center; gap: 10px; color: var(--teal); }
 .ps-logo .tile { width: 36px; height: 36px; border-radius: 10px; background: var(--teal); display: grid; place-items: center; }
 .ps-logo .name { font: 600 24px var(--f-serif); letter-spacing: -.01em; color: var(--teal-ink); }
@@ -87,9 +87,18 @@
 .ps-nav-links a { font: 700 12px var(--f-sans); letter-spacing: .2em; text-transform: uppercase; color: var(--teal); }
 .ps-nav-links a:hover { color: var(--rust); }
 .ps-nav-links .ps-btn { height: 42px; padding: 0 20px; font-size: 12px; }
-.ps-burger { background: none; border: 0; color: var(--teal); padding: 6px; cursor: pointer; }
-.ps-mobile { padding: 12px 22px 24px; display: flex; flex-direction: column; gap: 16px; }
-.ps-mobile a { font: 700 13px var(--f-sans); letter-spacing: .2em; text-transform: uppercase; color: var(--teal); }
+.ps-burger { display: inline-flex; align-items: center; justify-content: center; width: 44px; height: 44px; border-radius: 50%; border: 0; background: var(--teal); color: var(--peach); cursor: pointer; box-shadow: 0 6px 16px -8px rgba(0,0,0,.5); transition: transform .2s, background .2s; }
+.ps-burger:active { transform: scale(.94); }
+.ps-nav.is-open .ps-burger { background: var(--peach); color: var(--teal-ink); }
+.ps-mobile { position: fixed; top: 64px; left: 0; right: 0; bottom: 0; background: var(--teal-deep); color: #fff; padding: 28px 0 40px; overflow-y: auto; animation: psMenu .28s cubic-bezier(.16,1,.3,1); }
+@keyframes psMenu { from { opacity: 0; transform: translateY(-12px); } to { opacity: 1; transform: none; } }
+.ps-mobile-links { list-style: none; padding: 0; margin: 14px 0 0; }
+.ps-mobile-links li { border-bottom: 1px solid rgba(244,196,160,.16); }
+.ps-mobile-links a { display: flex; align-items: baseline; gap: 16px; padding: 14px 0; font-family: var(--f-display); text-transform: uppercase; font-size: 44px; line-height: 1; color: #fff; }
+.ps-mobile-links a span { font: 700 12px var(--f-sans); letter-spacing: .18em; color: var(--peach); }
+.ps-mobile-links a:active { color: var(--peach); }
+.ps-mobile-cta { margin-top: 30px; }
+.ps-mobile-cta .ps-stores { margin-top: 18px; }
 @media (min-width: 900px) { .ps-nav-links { display: flex; } .ps-burger { display: none; } }
 
 /* ===== hero ===== */
@@ -137,6 +146,13 @@
 /* ===== features ===== */
 .ps-feat-head { position: relative; padding: 64px 0 16px; color: #fff; }
 .ps-feat-head h2 { font-size: clamp(48px, 7vw, 100px); }
+.ps-feat-head-grid { display: grid; gap: 22px; align-items: end; }
+@media (min-width: 900px) { .ps-feat-head-grid { grid-template-columns: 1.1fr .9fr; gap: 56px; } }
+.ps-feat-head-side .ps-p { color: rgba(255,255,255,.78); font-size: 17px; max-width: 460px; }
+.ps-feat-head-stats { display: flex; gap: 28px; margin-top: 22px; }
+.ps-feat-head-stats div { display: flex; flex-direction: column; }
+.ps-feat-head-stats b { font-family: var(--f-display); font-weight: 400; font-size: 46px; line-height: 1; color: var(--peach); }
+.ps-feat-head-stats span { font: 700 11px var(--f-sans); letter-spacing: .2em; text-transform: uppercase; color: rgba(255,255,255,.6); margin-top: 6px; }
 .ps-feat-head h2 .pe { color: var(--peach); }
 .ps-chips { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 28px; }
 .ps-chip { font: 700 12px var(--f-sans); letter-spacing: .16em; text-transform: uppercase; padding: 10px 16px; border-radius: 999px; border: 1.5px solid rgba(244,196,160,.5); color: var(--peach); transition: background .2s, color .2s; }
@@ -246,3 +262,4 @@
 .ps-rv { opacity: 0; transform: translateY(24px); transition: opacity .8s cubic-bezier(.16,1,.3,1), transform .8s cubic-bezier(.16,1,.3,1); }
 .ps-rv.in { opacity: 1; transform: none; }
 @media (prefers-reduced-motion: reduce) { .ps-rv { opacity: 1; transform: none; transition: none; } }
+.ps [id] { scroll-margin-top: 64px; }

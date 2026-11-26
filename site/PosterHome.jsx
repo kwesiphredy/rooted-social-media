@@ -36,6 +36,7 @@ const SHOTS = {
 const SOCIAL = {
   instagram: 'https://www.instagram.com/stay.rootedapp',
   tiktok: 'https://www.tiktok.com/@stay.rootedapp',
+  facebook: 'https://www.facebook.com/1469263826266437',
 };
 
 /* ---------- small pieces ---------- */
@@ -49,7 +50,7 @@ function Torn({ color, side = 'bottom', seed = 3 }) {
 function Duo({ src, alt = '', className = '', style, pos }) {
   return <div className={`ps-duo ${className}`} style={style}><img src={src} alt={alt} loading="lazy" style={pos ? { objectPosition: pos } : undefined} /></div>;
 }
-function Tape({ style }) { return <span className="ps-tape" aria-hidden="true" style={style} />; }
+function Tape() { return null; }
 function Phone({ src, alt, className = '', style }) {
   return <div className={`ps-phone ${className}`} style={style}><img src={src} alt={alt} loading="lazy" /></div>;
 }
@@ -66,6 +67,7 @@ function Reveal({ children, className = '', delay = 0, as: Tag = 'div' }) {
 const AppleLogo = () => (<svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M16.37 12.6c-.02-2.3 1.88-3.4 1.96-3.46-1.07-1.56-2.73-1.78-3.32-1.8-1.41-.14-2.76.83-3.48.83-.72 0-1.82-.81-3-.79-1.54.02-2.96.9-3.76 2.27-1.6 2.78-.41 6.9 1.15 9.16.76 1.1 1.67 2.34 2.86 2.3 1.15-.05 1.58-.74 2.97-.74 1.38 0 1.77.74 2.98.72 1.23-.02 2.01-1.12 2.76-2.23.87-1.28 1.23-2.51 1.25-2.58-.03-.01-2.4-.92-2.42-3.66zM14.1 5.84c.63-.77 1.06-1.83.94-2.89-.91.04-2.01.61-2.66 1.37-.58.67-1.09 1.75-.96 2.79 1.02.08 2.05-.52 2.68-1.27z" /></svg>);
 const PlayLogo = () => (<svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><path d="M3.6 2.3c-.3.3-.5.8-.5 1.4v16.6c0 .6.2 1.1.5 1.4l9.3-9.7z" fill="#00D7FE" /><path d="M16 15.2 12.9 12l3.1-3.2 3.8 2.2c1.1.6 1.1 1.7 0 2.3z" fill="#FFCE00" /><path d="M16 15.2 12.9 12l-9.3 9.7c.4.4 1 .4 1.7.1z" fill="#FF3A44" /><path d="M16 8.8 5.3 2.2c-.7-.4-1.3-.3-1.7.1l9.3 9.7z" fill="#00F076" /></svg>);
 const IG = () => (<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><rect x="3" y="3" width="18" height="18" rx="5" /><circle cx="12" cy="12" r="4" /><circle cx="17.5" cy="6.5" r="1" fill="currentColor" /></svg>);
+const FB = () => (<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M13.5 21v-7.5h2.6l.4-3h-3V8.6c0-.9.3-1.5 1.5-1.5h1.6V4.4a21 21 0 0 0-2.4-.1c-2.4 0-4 1.4-4 4.1v2.1H7.6v3h2.6V21h3.3z" /></svg>);
 const TT = () => (<svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M16.6 3c.4 2 1.7 3.4 3.9 3.6v3a7.4 7.4 0 0 1-3.9-1.2v6.3A5.8 5.8 0 1 1 10.8 9v3.1a2.8 2.8 0 1 0 2.8 2.8V3h3z" /></svg>);
 
 function Stores() {
@@ -83,21 +85,43 @@ const shot = (id, i = 0) => (SHOTS[id] ? M + SHOTS[id][i] : undefined);
 function Nav() {
   const [open, setOpen] = useState(false);
   const links = [['#week', 'Why Rooted'], ['#features', 'Features'], ['#how', 'How it works'], ['#pricing', 'Pricing']];
+  useEffect(() => {
+    document.body.style.overflow = open ? 'hidden' : '';
+    return () => { document.body.style.overflow = ''; };
+  }, [open]);
   return (
-    <nav className="ps-nav">
-      <div className="ps-nav-bg ps-paper" style={{ clipPath: 'polygon(0 0,100% 0,100% 86%,96% 90%,91% 86%,85% 91%,78% 87%,71% 92%,64% 86%,57% 90%,49% 85%,42% 91%,35% 86%,28% 90%,20% 85%,13% 91%,6% 86%,0 90%)' }} />
+    <nav className={`ps-nav ${open ? 'is-open' : ''}`}>
+      <div className="ps-nav-bg ps-paper" />
       <div className="ps-shell ps-nav-bar">
-        <a href="#" className="ps-logo"><span className="tile"><Sprout size={21} color="#F4C4A0" /></span><span className="name">Rooted</span></a>
+        <a href="#" className="ps-logo" onClick={() => setOpen(false)}><span className="tile"><Sprout size={21} color="#F4C4A0" /></span><span className="name">Rooted</span></a>
         <div className="ps-nav-links">
           {links.map(([h, t]) => <a key={h} href={h}>{t}</a>)}
           <a href="#download" className="ps-btn teal">Get the app</a>
         </div>
-        <button className="ps-burger" onClick={() => setOpen(!open)} aria-label="Menu">{open ? <X size={26} /> : <Menu size={26} />}</button>
+        <button className="ps-burger" onClick={() => setOpen(!open)} aria-label={open ? 'Close menu' : 'Open menu'} aria-expanded={open}>
+          {open ? <X size={22} /> : <Menu size={22} />}
+        </button>
       </div>
       {open && (
-        <div className="ps-paper ps-mobile">
-          {links.map(([h, t]) => <a key={h} href={h} onClick={() => setOpen(false)}>{t}</a>)}
-          <a href="#download" className="ps-btn teal" onClick={() => setOpen(false)}>Get the app</a>
+        <div className="ps-mobile ps-grain">
+          <div className="ps-shell">
+            <div className="ps-caps" style={{ color: 'var(--peach)', opacity: .8 }}>Menu</div>
+            <ol className="ps-mobile-links">
+              {links.map(([h, t], i) => (
+                <li key={h}><a href={h} onClick={() => setOpen(false)}><span>0{i + 1}</span>{t}</a></li>
+              ))}
+            </ol>
+            <div className="ps-mobile-cta">
+              <div className="ps-script" style={{ color: 'var(--peach)', fontSize: 30, transform: 'rotate(-2deg)' }}>Stay rooted all week.</div>
+              <Stores />
+              <div className="ps-social" style={{ justifyContent: 'flex-start', marginTop: 22 }}>
+                <a href={SOCIAL.instagram} target="_blank" rel="noopener noreferrer" aria-label="Rooted on Instagram"><IG /></a>
+                <a href={SOCIAL.tiktok} target="_blank" rel="noopener noreferrer" aria-label="Rooted on TikTok"><TT /></a>
+                <a href={SOCIAL.facebook} target="_blank" rel="noopener noreferrer" aria-label="Rooted on Facebook"><FB /></a>
+                <span style={{ color: '#fff' }}>@stay.rootedapp</span>
+              </div>
+            </div>
+          </div>
         </div>
       )}
     </nav>
@@ -127,24 +151,21 @@ function Hero() {
         <Reveal delay={0.2} className="ps-hero-art">
           <div className="sticker"><span>Faith<br />past<br />Sunday</span></div>
           <div style={{ position: 'relative' }}>
-            <Tape style={{ top: -10, right: '14%', transform: 'rotate(8deg)' }} />
             <Phone src={shot('spiritscript', 0)} alt="SpiritScript sermon summary in Rooted" />
           </div>
           <figure className="ps-pola" style={{ margin: 0 }}>
-            <Tape style={{ top: -14, left: '30%', width: 90, transform: 'rotate(-6deg)' }} />
             <Duo src={PHOTO.notes} alt="A man writing sermon notes in his Bible" />
             <figcaption>Monday notes, sorted.</figcaption>
           </figure>
         </Reveal>
       </div>
-      <Torn color="#F2E9DB" side="bottom" seed={7} />
     </header>
   );
 }
 
 /* ---------- the week ---------- */
 const DAYS = [
-  { d: 'Sun', small: 'the service', photo: PHOTO.worship, cap: 'The word hits. You feel it.', pos: '50% 30%' },
+  { d: 'Sun', small: 'the service', photo: PHOTO.group, cap: 'The word hits. You feel it.', pos: '50% 30%' },
   { d: 'Mon', small: 'the morning after', photo: PHOTO.notes, cap: 'Wait... what was point three?' },
   { d: 'Wed', small: 'the midweek dip', photo: PHOTO.journal, cap: 'Feeling far. Busy. Tired.', pos: '50% 35%' },
 ];
@@ -162,7 +183,6 @@ function Week() {
             <Reveal key={x.d} delay={i * 0.08} className="ps-day">
               <div className="label">{x.d}<small>{x.small}</small></div>
               <figure className="ps-pola" style={{ margin: 0 }}>
-                <Tape style={{ top: -14, left: i === 1 ? '58%' : '18%', width: 96, transform: `rotate(${i === 1 ? 7 : -5}deg)` }} />
                 <Duo src={x.photo} pos={x.pos} alt="" style={i === 1 ? { '--duo': '#8A4A2C', '--duo-a': .6 } : undefined} />
                 <figcaption>{x.cap}</figcaption>
               </figure>
@@ -223,7 +243,6 @@ function Feature({ f, i }) {
           {b && <Phone src={b} alt={`${f.name} in Rooted`} className="ph2" />}
           {a && (
             <div className="ph1">
-              <Tape style={{ top: -12, left: '28%', width: 96, transform: `rotate(${flip ? 6 : -6}deg)` }} />
               <Phone src={a} alt={`${f.name} in Rooted`} />
             </div>
           )}
@@ -237,11 +256,20 @@ function Features() {
   return (
     <div id="features">
       <section className="ps-feat-head ps-grain" style={{ background: 'var(--teal-deep)' }}>
-        <Torn color="#F2E9DB" side="top" seed={11} />
         <div className="ps-shell">
           <Reveal>
             <div className="ps-caps" style={{ color: 'var(--peach)' }}>What's inside</div>
-            <h2 className="ps-display" style={{ marginTop: 14 }}>Seven tools.<br /><span className="pe">One app.</span></h2>
+            <div className="ps-feat-head-grid">
+              <h2 className="ps-display" style={{ marginTop: 14 }}>Seven tools.<br /><span className="pe">One app.</span></h2>
+              <div className="ps-feat-head-side">
+                <p className="ps-p">Sermon notes, the Bible, devotions, a journal, prayer, games and your church friends. One app instead of five, built for the days between Sundays.</p>
+                <div className="ps-feat-head-stats">
+                  <div><b>7</b><span>tools</span></div>
+                  <div><b>1</b><span>app</span></div>
+                  <div><b>365</b><span>days a year</span></div>
+                </div>
+              </div>
+            </div>
             <nav className="ps-chips" aria-label="Features">
               {FEATURES.map((f) => <a key={f.id} className="ps-chip" href={`#f-${f.id}`}>{f.name}</a>)}
             </nav>
@@ -259,8 +287,6 @@ function Verse() {
     <section className="ps-verse ps-grain">
       <Duo src={PHOTO.flowers} className="ps-verse-bg" alt="" />
       <Reveal className="ps-verse-card ps-paper">
-        <Tape style={{ top: -14, left: '12%', transform: 'rotate(-8deg)' }} />
-        <Tape style={{ top: -14, right: '12%', transform: 'rotate(7deg)' }} />
         <div className="w">Rooted</div>
         <q>Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving.</q>
         <cite>Colossians 2:7 (KJV)</cite>
@@ -328,7 +354,6 @@ function Pricing() {
           {PLANS.map((p, i) => (
             <Reveal key={p.name} delay={i * 0.08}>
               <article className={`ps-plan ${p.cls}`}>
-                <Tape style={{ top: -14, left: 24, width: 100, transform: 'rotate(-7deg)' }} />
                 <span className="badge">{p.badge}</span>
                 <h3 className="ps-display">{p.name}</h3>
                 <div className="price"><b>{p.price}</b><span>/month</span></div>
@@ -351,7 +376,6 @@ function Download() {
   return (
     <section id="download" className="ps-dl ps-grain">
       <Duo src={PHOTO.sunrise} className="ps-dl-bg" alt="" />
-      <Torn color="#2D4A4A" side="top" seed={19} />
       <div className="ps-shell ps-dl-in">
         <Reveal>
           <div className="ps-caps" style={{ color: 'var(--peach)' }}>Rooted: Bible Study & Prayer</div>
@@ -362,11 +386,11 @@ function Download() {
           <div className="ps-social">
             <a href={SOCIAL.instagram} target="_blank" rel="noopener noreferrer" aria-label="Rooted on Instagram"><IG /></a>
             <a href={SOCIAL.tiktok} target="_blank" rel="noopener noreferrer" aria-label="Rooted on TikTok"><TT /></a>
+            <a href={SOCIAL.facebook} target="_blank" rel="noopener noreferrer" aria-label="Rooted on Facebook"><FB /></a>
             <span>@stay.rootedapp</span>
           </div>
         </Reveal>
       </div>
-      <Torn color="#F4C4A0" side="bottom" seed={23} />
     </section>
   );
 }
